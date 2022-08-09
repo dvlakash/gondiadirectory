@@ -13,7 +13,7 @@
                 "type": "",
                 "contact": "+918857845020",
                 "alt_contact": "",
-                "address": "Gautam Nagar Bajpai Ward Gondia - 441601"
+                "address": "Gautam Nagar Bajpai Ward Gondia"
             }
         ],
         "Wine & Bar Shop": [
@@ -22,7 +22,14 @@
                 "type": "",
                 "contact": "+918378895377",
                 "alt_contact": "",
-                "address": "Near Railway Station Railtoli Gondia - 441601"
+                "address": "Near Railway Station Railtoli Gondia"
+            },
+	    {
+                "name": "Vibrant Bar",
+                "type": "",
+                "contact": "+918007738319",
+                "alt_contact": "",
+                "address": "Near Pani Tanki, Kudwa, Gondia"
             }
         ],
         "Home Automation": [
@@ -40,14 +47,14 @@
                 "type": "",
                 "contact": "+917947338543",
                 "alt_contact": "",
-                "address": "Near Sai Mandir, Awanti Bai Square, Ring Road, Gondia City, Gondia - 441614"
+                "address": "Near Sai Mandir, Awanti Bai Square, Ring Road, Gondia City, Gondia"
             },
             {
                 "name": "Epione Hospital LLP",
                 "type": "",
                 "contact": "+918379852653",
                 "alt_contact": "",
-                "address": "Behind Nirmal Theatre, Epione Hospital LLP, Shastri Ward, Gondia - 441601"
+                "address": "Behind Nirmal Theatre, Epione Hospital LLP, Shastri Ward, Gondia"
             },
             {
                 "name": "Gondia Care Hospital",
