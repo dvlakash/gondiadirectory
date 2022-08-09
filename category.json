@@ -101,7 +101,7 @@
     },
     {
         "name": "Salon and Spa",
-        "logo": "far fa-hand-scissors"
+        "logo": "fas fa-cut"
     },
     {
         "name": "Cake Shop & Bakery",
@@ -110,5 +110,9 @@
     {
         "name": "CCTV Installation",
         "logo": "fa fa-video"
+    },
+    {
+        "name": "Tailor",
+        "logo": "fas fa-tshirt"
     }
  ]
