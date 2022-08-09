@@ -5,7 +5,7 @@
     },
     {
        "name": "Home Automation",
-       "logo": "fas fa-magic"
+       "logo": "fas fa-laptop-house"
     },
     {
        "name": "Computer Repair",
@@ -41,7 +41,7 @@
     },
     {
        "name": "Refrigerator Technician",
-       "logo": "fas fa-archive"
+       "logo": "fas fa-door-closed"
     },
     {
        "name": "Washing Machine Technician",
@@ -77,7 +77,7 @@
     },
     {
         "name": "Dentist",
-        "logo": "fa fa-link"
+        "logo": "fas fa-tooth"
     },
     {
         "name": "Carpenter",
