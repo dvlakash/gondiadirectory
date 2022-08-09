@@ -436,6 +436,15 @@
                 "alt_contact": "",
                 "address": "Pal Chowk, Gondia - 441614"
             }
+        ],
+        "Tailor": [
+            {
+                "name": "Belge Tailors",
+                "type": "",
+                "contact": "+919371345862",
+                "alt_contact": "",
+                "address": "Shiv Nagar, Manohar Bhai Ward, Angur Bagicha Road, Gondia"
+            }
         ]
     }
 ]
