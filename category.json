@@ -114,5 +114,9 @@
     {
         "name": "Tailor",
         "logo": "fas fa-tshirt"
+    },
+    {
+        "name": "Restaurants",
+        "logo": "fas fa-utensils"
     }
  ]
