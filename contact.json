@@ -383,13 +383,20 @@
                 "address": "Chanditola, Gondia - 441601"
             }
         ],
-        "Bike Dealer (2nd Hand)": [
+        "2nd Hand Products": [
             {
                 "name": "Rahul Bike Dealer",
-                "type": "",
+                "type": "Bike",
                 "contact": "+918305357598",
                 "alt_contact": "",
                 "address": "Gondia - 441601"
+            },
+            {
+                "name": "Pal Gupta",
+                "type": "Laptop",
+                "contact": "+919145353536",
+                "alt_contact": "",
+                "address": "Pal Chowk, Gondia - 441614"
             }
         ],
         "Building Material Supplier": [
@@ -400,7 +407,7 @@
                 "alt_contact": "",
                 "address": "Railtoly, Gondia - 441601"
             },
-			{
+	    {
                 "name": "Rathod Agencies",
                 "type": "Cement, Cement Door Frames, Waterpipes",
                 "contact": "+919890918177",
