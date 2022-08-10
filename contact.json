@@ -39,6 +39,22 @@
                 "address": "Near Pani Tanki, Kudwa, Gondia"
             }
         ],
+        "Restaurants": [
+            {
+                "name": "Gammat Jammat",
+                "type": "Fast Food",
+                "contact": "+917798617666",
+                "alt_contact": "",
+                "address": "Kudwa, Gondia - 441614"
+            },
+	    {
+                "name": "Geniezzz",
+                "type": "Shawarma",
+                "contact": "+918698091205",
+                "alt_contact": "",
+                "address": "Opposite Of Jain Bakery, Railtoly, Gondia"
+            }
+        ],
         "Home Automation": [
             {
                 "name": "TechKisan",
