@@ -118,5 +118,9 @@
     {
         "name": "Restaurants",
         "logo": "fas fa-utensils"
+    },
+    {
+        "name": "Graphic Designer",
+        "logo": "far fa-images"
     }
  ]
