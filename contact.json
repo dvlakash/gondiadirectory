@@ -498,6 +498,15 @@
                 "alt_contact": "",
                 "address": "Poona Toli, Gondia, Maharashtra"
             }
+        ],
+        "Gas Stove Reparing": [
+            {
+                "name": "Mahesh Upadhyay",
+                "type": "Stove, Burner, Pipe Leakage",
+                "contact": "+919960763207",
+                "alt_contact": "",
+                "address": "Gondia, Maharashtra"
+            }
         ]
     }
 ]
