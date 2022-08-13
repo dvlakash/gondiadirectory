@@ -122,5 +122,9 @@
     {
         "name": "Graphic Designer",
         "logo": "far fa-images"
+    },
+    {
+        "name": "Gas Stove Reparing",
+        "logo": "fab fa-free-code-camp"
     }
  ]
