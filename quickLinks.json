@@ -22,5 +22,11 @@
       "logo": "fas fa-place-of-worship",
       "link": "https://www.tripadvisor.in/Attractions-g2285453-Activities-Gondia_Gondia_District_Maharashtra.html",
       "mode": "_blank"
+    },
+    {
+      "name": "Book My Show",
+      "logo": "fas fa-film",
+      "link": "https://in.bookmyshow.com/explore/movies-gondia",
+      "mode": "_blank"
     }
   ]
