@@ -8,7 +8,7 @@
        "logo": "fas fa-laptop-house"
     },
     {
-       "name": "कंप्यूटर मरम्मत",
+       "name": "कंप्यूटर सुधारने वाला",
        "logo": "fas fa-desktop"
     },
     {
@@ -116,7 +116,7 @@
         "logo": "far fa-images"
     },
     {
-        "name": "गैस स्टोव की मरम्मत वाला",
+        "name": "गैस स्टोव सुधारने वाला",
         "logo": "fab fa-free-code-camp"
     }
  ]
