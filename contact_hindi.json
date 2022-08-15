@@ -1,6 +1,6 @@
 [
     {
-        "AC Reparing Installation": [
+		"एसी लगाने एवं मरम्मत करने वाला": [
             {
                 "name": "Monu Khan",
                 "type": "",
@@ -23,7 +23,7 @@
                 "address": "Gondia"
             }
         ],
-        "Wine & Bar Shop": [
+		"शराब की दुकान": [
             {
                 "name": "Lovely Bar",
                 "type": "",
@@ -39,7 +39,7 @@
                 "address": "Near Pani Tanki, Kudwa, Gondia"
             }
         ],
-        "Restaurants": [
+		"भोजनालय रेस्टोरेंट": [
             {
                 "name": "Gammat Jammat",
                 "type": "Fast Food",
@@ -55,7 +55,7 @@
                 "address": "Opposite Of Jain Bakery, Railtoly, Gondia"
             }
         ],
-        "Home Automation": [
+		"होम ऑटोमेशन": [
             {
                 "name": "TechKisan",
                 "type": "",
@@ -64,7 +64,7 @@
                 "address": "1st Floor, Ambule House, Murri, Gondia"
             }
         ],
-        "Hospital": [
+		"अस्पताल": [
             {
                 "name": "Sahayog Hospital",
                 "type": "",
@@ -108,7 +108,7 @@
                 "address": "Ganesh Nagar, Gondia, Maharashtra 441601"
             }
         ],
-        "Computer Repair": [
+		"कंप्यूटर सुधारने वाला": [
             {
                 "name": "Computer Workshop",
                 "type": "",
@@ -131,7 +131,7 @@
                 "address": "In Front Of Bhaktaraj Durga Square, Kisan Sankul, Kudwa Line, Gondia City, Gondia - 441614"
             }
         ],
-        "Electrician": [
+		"बिजली मिस्त्री": [
             {
                 "name": "Raj Banote",
                 "type": "",
@@ -175,7 +175,7 @@
                 "address": "T.B Toli, Gondia"
             }
         ],
-        "Music Teacher": [
+		"संगीत शिक्षक": [
             {
                 "name": "Tushar Guitar Classes",
                 "type": "Guitar",
@@ -198,7 +198,7 @@
                 "address": "Near Hanuman Mandir, Pal Chowk, Gondia - 441614"
             }
         ],
-        "Gym": [
+		"जिम": [
             {
                 "name": "Fitness Studio",
                 "type": "",
@@ -228,7 +228,7 @@
                 "address": "Sharnagat Complex, Railtoli, Gondia City, Gondia - 441614"
             }
         ],
-        "Plumber": [
+		"प्लम्बर": [
 			{
                 "name": "Kailash Gautam",
                 "type": "",
@@ -237,7 +237,7 @@
                 "address": "Gondia"
             }
 		],
-        "Carpenter": [
+		"बढ़ई": [
 			{
                 "name": "Khomesh Rahangdale",
                 "type": "",
@@ -253,7 +253,7 @@
                 "address": "Chutiya, Gondia 441614"
             }
 		],
-        "Painter": [
+		"पेंटर": [
 			{
                 "name": "Pravin Chavhan",
                 "type": "",
@@ -276,7 +276,7 @@
                 "address": "Chanditola, Gondia"
             }
 		],
-        "Tour & Travels": [
+		"टूर एंड ट्रेवल्स": [
             {
                 "name": "Rohit Sharnagat",
                 "type": "",
@@ -306,7 +306,7 @@
                 "address": "Gondia - 441614"
             }
         ],
-        "Photoshoot": [
+		"फोटोशूट": [
             {
                 "name": "Mayank Studio",
                 "type": "",
@@ -322,10 +322,10 @@
                 "address": "1st Floor of Turkar Bhavan, In Front of S.P. College, Dasgaon, Gondia Road - 441614"
             }
         ],
-        "Refrigerator Technician": [],
-        "Washing Machine Technician": [],
-        "Microwave Technician": [],
-        "Worker Labour": [
+		"फ़्रिज सुधारने वाला": [],
+		"वाशिंग मशीन सुधारने वाला": [],
+		"माइक्रोवेव सुधारने वाला": [],
+		"मज़दूर": [
             {
                 "name": "Sanjay Amkar",
                 "type": "",
@@ -341,8 +341,8 @@
                 "address": "Main Market, Gondia"
             }
         ],
-        "TV Technician": [],
-        "House Maker Repair": [
+		"टीवी सुधारने वाला": [],
+		"घर बनाने एवं मरम्मत करने वाला": [
 			{
                 "name": "Ambarlal Daudsare",
                 "type": "",
@@ -372,7 +372,7 @@
                 "address": "Railtoli, Gondia"
             }
         ],
-        "Wifi Provider": [
+		"वाईफाई प्रदाता": [
             {
                 "name": "Nexsuses Solution (Orange)",
                 "type": "",
@@ -388,7 +388,7 @@
                 "address": "Near Harinkhede Petrol Pump, Shriram Nagar, Tiroda Road, Gondia City, Gondia - 441614"
             }
         ],
-        "Dentist": [
+		"दंत चिकित्सक": [
             {
                 "name": "Mahalaxmi",
                 "type": "",
@@ -397,7 +397,7 @@
                 "address": "Angur Bagicha Road, Gajanan Colony, Gondia - 441601"
             }
         ],
-        "Tiles Marble Fitting": [
+		"टाइल्स मार्बल लगाने वाला": [
             {
                 "name": "Tejram",
                 "type": "",
@@ -413,7 +413,7 @@
                 "address": "Chanditola, Gondia - 441601"
             }
         ],
-        "2nd Hand Products": [
+		"पुरानी चीज़ो के विक्रेता": [
             {
                 "name": "Rahul Bike Dealer",
                 "type": "Bike",
@@ -429,7 +429,7 @@
                 "address": "Pal Chowk, Gondia - 441614"
             }
         ],
-        "Building Material Supplier": [
+		"भवन निर्माण सामग्री के आपूर्तिकर्ता": [
             {
                 "name": "Saurav Chourasia",
                 "type": "Bricks, Cement, Sand",
@@ -459,7 +459,7 @@
                 "address": "Palkheda, Gondia"
             }
         ],
-        "Waterproofing": [
+		"जलरोधक": [
             {
                 "name": "Sudhir Bopche",
                 "type": "",
@@ -468,25 +468,7 @@
                 "address": "At Dongargaon, Gondia - 441601"
             }
         ],
-        "Salon and Spa": [
-            {
-                "name": "Mahendra Lanjewar",
-                "type": "Male",
-                "contact": "+917721885003",
-                "alt_contact": "",
-                "address": "Sri Talkies Chowk, Gondia - 441601"
-            }
-        ],
-        "Cake Shop & Bakery": [
-            {
-                "name": "Jain Bakery",
-                "type": "",
-                "contact": "+918149910008",
-                "alt_contact": "+918983237326",
-                "address": "Gandi Market, Near UCO Bank, Rail Toli, Gondia - 441601"
-            }
-        ],
-        "CCTV Installation": [
+		"सीसीटीवी लगाने वाला": [
             {
                 "name": "Ansh Technologies",
                 "type": "",
@@ -495,7 +477,7 @@
                 "address": "Pal Chowk, Gondia - 441614"
             }
         ],
-        "Tailor": [
+		"दर्जी": [
             {
                 "name": "Belge Tailors",
                 "type": "",
@@ -504,7 +486,7 @@
                 "address": "Shiv Nagar, Manohar Bhai Ward, Angur Bagicha Road, Gondia"
             }
         ],
-        "Graphic Designer": [
+		"ग्राफ़िक डिज़ाइनर": [
             {
                 "name": "Maa Graphics",
                 "type": "Poster, Visiting Card, Wedding Card, Flex",
@@ -513,7 +495,7 @@
                 "address": "Poona Toli, Gondia, Maharashtra"
             }
         ],
-        "Gas Stove Reparing": [
+		"गैस स्टोव सुधारने वाला": [
             {
                 "name": "Mahesh Upadhyay",
                 "type": "Stove, Burner, Pipe Leakage",
