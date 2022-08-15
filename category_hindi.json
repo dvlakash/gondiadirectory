@@ -96,35 +96,27 @@
         "logo": "far fa-building"
     },
     {
-        "name": "Waterproofing",
+        "name": "जलरोधक",
         "logo": "fas fa-tint-slash"
     },
     {
-        "name": "Salon and Spa",
-        "logo": "fas fa-cut"
-    },
-    {
-        "name": "Cake Shop & Bakery",
-        "logo": "fas fa-birthday-cake"
-    },
-    {
-        "name": "CCTV Installation",
+        "name": "सीसीटीवी लगाने वाला",
         "logo": "fa fa-video"
     },
     {
-        "name": "Tailor",
+        "name": "दर्जी",
         "logo": "fas fa-tshirt"
     },
     {
-        "name": "Restaurants",
+        "name": "भोजनालय रेस्टोरेंट",
         "logo": "fas fa-utensils"
     },
     {
-        "name": "Graphic Designer",
+        "name": "ग्राफ़िक डिज़ाइनर",
         "logo": "far fa-images"
     },
     {
-        "name": "Gas Stove Reparing",
+        "name": "गैस स्टोव की मरम्मत वाला",
         "logo": "fab fa-free-code-camp"
     }
  ]
