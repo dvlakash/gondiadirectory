@@ -2,324 +2,324 @@
     {
 		"एसी लगाने एवं मरम्मत करने वाला": [
             {
-                "name": "Monu Khan",
+                "name": "मोनू खान",
                 "type": "",
                 "contact": "+919834417047",
                 "alt_contact": "",
-                "address": "Gondia"
+                "address": "गोंदिया"
             },
             {
-                "name": "Rumesh Badhel",
+                "name": "रुमेश बधेल",
                 "type": "",
                 "contact": "+918857845020",
                 "alt_contact": "",
-                "address": "Gautam Nagar Bajpai Ward Gondia"
+                "address": "गौतम नगर, बाजपेयी वार्ड, गोंदिया"
             },
             {
-                "name": "Guddu Hussaini",
+                "name": "गुड्डू हुसैनी",
                 "type": "",
                 "contact": "+919373294907",
                 "alt_contact": "",
-                "address": "Gondia"
+                "address": "गोंदिया"
             }
         ],
 		"शराब की दुकान": [
             {
-                "name": "Lovely Bar",
+                "name": "लवली बार",
                 "type": "",
                 "contact": "+918378895377",
                 "alt_contact": "",
-                "address": "Near Railway Station Railtoli Gondia"
+                "address": "रेलवे स्टेशन के पास, रेलतोली, गोंदिया"
             },
 	    {
-                "name": "Vibrant Bar",
+                "name": "वाइब्रेंट बार",
                 "type": "",
                 "contact": "+918007738319",
                 "alt_contact": "",
-                "address": "Near Pani Tanki, Kudwa, Gondia"
+                "address": "पानी टंकी के पास, कुडवा, गोंदिया"
             }
         ],
 		"भोजनालय रेस्टोरेंट": [
             {
-                "name": "Gammat Jammat",
-                "type": "Fast Food",
+                "name": "गम्मत जम्मत",
+                "type": "फास्ट फूड",
                 "contact": "+917798617666",
                 "alt_contact": "",
-                "address": "Kudwa, Gondia - 441614"
+                "address": "कुडवा, गोंदिया"
             },
 	    {
-                "name": "Geniezzz",
-                "type": "Shawarma",
+                "name": "जिनिएज्ज्ज़",
+                "type": "शवर्मा",
                 "contact": "+918698091205",
                 "alt_contact": "",
-                "address": "Opposite Of Jain Bakery, Railtoly, Gondia"
+                "address": "जैन बेकरी के सामने, रेलतोली, गोंदिया"
             }
         ],
 		"होम ऑटोमेशन": [
             {
-                "name": "TechKisan",
+                "name": "टेककिसान",
                 "type": "",
                 "contact": "+918698105221",
                 "alt_contact": "",
-                "address": "1st Floor, Ambule House, Murri, Gondia"
+                "address": "पहली मंजिल, अम्बुले हाउस, मुर्री, गोंदिया"
             }
         ],
 		"अस्पताल": [
             {
-                "name": "Sahayog Hospital",
+                "name": "सहयोग हॉस्पिटल"
                 "type": "",
                 "contact": "+917947338543",
                 "alt_contact": "",
-                "address": "Near Sai Mandir, Awanti Bai Square, Ring Road, Gondia City, Gondia"
+                "address": "साईं मंदिर के पास, अवंती बाई स्क्वायर, रिंग रोड, गोंदिया सिटी, गोंदिया"
             },
             {
-                "name": "Epione Hospital LLP",
+                "name": "एपियोन हॉस्पिटल एलएलपी",
                 "type": "",
                 "contact": "+918379852653",
                 "alt_contact": "",
-                "address": "Behind Nirmal Theatre, Epione Hospital LLP, Shastri Ward, Gondia"
+                "address": "निर्मल थिएटर के पीछे, एपियोन हॉस्पिटल एलएलपी, शास्त्री वार्ड, गोंदिया"
             },
             {
-                "name": "Gondia Care Hospital",
+                "name": "गोंदिया केयर हॉस्पिटल",
                 "type": "",
                 "contact": "+917182236442",
                 "alt_contact": "",
-                "address": "Civil Lines, Bajaj Nagar, Gondia, Maharashtra 441601"
+                "address": "सिविल लाइन्स, बजाज नगर, गोंदिया, Maharashtra"
             },
             {
-                "name": "KMJ Hospital",
+                "name": "केएमजे हॉस्पिटल",
                 "type": "",
                 "contact": "+917182238433",
                 "alt_contact": "",
-                "address": "Behind Nirmal Theatre, Shastri Ward, Near Yashodha Sabhagruh, Gondia Ho, Gondia - 441601"
+                "address": "निर्मल थियेटर के पीछे, शास्त्री वार्ड, यशोदा सभागृह के पास, गोंदिया"
             },
             {
-                "name": "Gondia City Hospital",
+                "name": "गोंदिया सिटी हॉस्पिटल",
                 "type": "",
                 "contact": "+917182233828",
                 "alt_contact": "",
-                "address": "Near, Naka, Nagpur, Road, Bajaj Nagar, Fulchur, Maharashtra 441601"
+                "address": "नाका के पास, नागपुर, रोड, बजाज नगर, फुलचुर, गोंदिया"
             },
             {
-                "name": "B.J. Hospital",
+                "name": "बी.जे हॉस्पिटल",
                 "type": "",
                 "contact": "+918007494848",
                 "alt_contact": "",
-                "address": "Ganesh Nagar, Gondia, Maharashtra 441601"
+                "address": "गणेश नगर, गोंदिया, Maharashtra"
             }
         ],
 		"कंप्यूटर सुधारने वाला": [
             {
-                "name": "Computer Workshop",
+                "name": "कंप्यूटर वर्कशॉप",
                 "type": "",
                 "contact": "+919372939139",
                 "alt_contact": "",
-                "address": "Opposite Syndicate Bank Durga Chowk, Maheswari Bhavan, Kuwa Lane, Gondia Bazar, Gondia - 441601"
+                "address": "सिंडिकेट बैंक के सामने दुर्गा चौक, माहेश्वरी भवन, कुवा लेन, गोंदिया बाजार, गोंदिया"
             },
             {
-                "name": "Computer Care",
+                "name": "कंप्यूटर केयर",
                 "type": "",
                 "contact": "+919423384792",
                 "alt_contact": "",
-                "address": "Near Gujrati Samajwadi Main Market Purohit Complex, Shop No 3 Deshbandhu Ward, Gondia, Maharashtra 441601"
+                "address": "गुजराती समाजवादी मेन मार्केट पुरोहित कॉम्प्लेक्स के पास, दुकान नंबर 3 देशबंधु वार्ड, गोंदिया"
             },
             {
-                "name": "Lohiya Systems",
+                "name": "लोहिया सिस्टम्स",
                 "type": "",
                 "contact": "+919923228882",
                 "alt_contact": "",
-                "address": "In Front Of Bhaktaraj Durga Square, Kisan Sankul, Kudwa Line, Gondia City, Gondia - 441614"
+                "address": "भक्तराज के सामने दुर्गा चौक, किसन संकुल, कुडवा लाइन, गोंदिया शहर, गोंदिया"
             }
         ],
 		"बिजली मिस्त्री": [
             {
-                "name": "Raj Banote",
+                "name": "राज बनोटे",
                 "type": "",
                 "contact": "+918999906315",
                 "alt_contact": "",
-                "address": "Katangi, Gondia - 441614"
+                "address": "कटंगी, गोंदिया - 441614"
             },
             {
-                "name": "Shubham Electronics",
+                "name": "शुभम इलेक्ट्रॉनिक्स",
                 "type": "",
                 "contact": "+919021318118",
                 "alt_contact": "",
-                "address": "Shashtri Chowk Govindpur Road, Gondia - 441614"
+                "address": "शास्त्री चौक गोविंदपुर रोड, गोंदिया - 441614"
             },
             {
-                "name": "Kailash Gautam",
+                "name": "कैलाश गौतम",
                 "type": "",
                 "contact": "+918308535216",
                 "alt_contact": "",
-                "address": "Gondia"
+                "address": "गोंदिया"
             },
             {
-                "name": "Pramod Rahangdale",
+                "name": "प्रमोद रहांगदाले",
                 "type": "",
                 "contact": "+919579501294",
                 "alt_contact": "",
-                "address": "Gondia"
+                "address": "गोंदिया"
             },
             {
-                "name": "DG Shende",
+                "name": "डीजी शेंडे",
                 "type": "",
                 "contact": "+919822922648",
                 "alt_contact": "",
-                "address": "Ramnagar, Gondia"
+                "address": "रामनगर, गोंदिया"
             },
             {
-                "name": "Dipak Jounjare",
+                "name": "दीपक जौंजारे",
                 "type": "",
                 "contact": "+918208180374",
                 "alt_contact": "",
-                "address": "T.B Toli, Gondia"
+                "address": "टीबी टोली, गोंदिया"
             }
         ],
 		"संगीत शिक्षक": [
             {
-                "name": "Tushar Guitar Classes",
-                "type": "Guitar",
+                "name": "तुषार गिटार क्लासेस",
+                "type": "गिटार",
                 "contact": "+918793880589",
                 "alt_contact": "",
-                "address": "Ramnagar, Gondia - 441614"
+                "address": "रामनगर, गोंदिया - 441614"
             },
             {
-                "name": "Anugrah Ramteke",
-                "type": "Guitar",
+                "name": "अनुग्रह रामटेके",
+                "type": "गिटार",
                 "contact": "+919175981702",
                 "alt_contact": "",
-                "address": "Near Arora Bhavan, Ramnagar, Gondia - 441614"
+                "address": "अरोड़ा भवन के पास, रामनगर, गोंदिया - 441614"
             },
             {
-                "name": "Kapil Parmar",
-                "type": "Guitar, Tabla, Piano",
+                "name": "कपिल परमार",
+                "type": "गिटार, तबला, पियानो",
                 "contact": "+919326558670",
                 "alt_contact": "+919637777298",
-                "address": "Near Hanuman Mandir, Pal Chowk, Gondia - 441614"
+                "address": "हनुमान मंदिर के पास, पाल चौक, गोंदिया - 441614"
             }
         ],
 		"जिम": [
             {
-                "name": "Fitness Studio",
+                "name": "फिटनेस स्टूडियो",
                 "type": "",
                 "contact": "+919145353536",
                 "alt_contact": "",
-                "address": "Near Hanuman Mandir, Pal Chowk, Gondia - 441614"
+                "address": "हनुमान मंदिर के पास, पाल चौक, गोंदिया - 441614"
             },
             {
-                "name": "Nobel Gym & Crossfit",
+                "name": "नोबेल जिम और क्रॉसफिट",
                 "type": "",
                 "contact": "+917947179461",
                 "alt_contact": "",
-                "address": "Opp Sagrika Hotel, Shri Sai Complex 1st Floor, Balaghat Road, Gondia City, Gondia - 441614"
+                "address": "सागरिका होटल के सामने, श्री साई कॉम्प्लेक्स पहली मंजिल, बालाघाट रोड, गोंदिया सिटी, गोंदिया - 441614"
             },
             {
-                "name": "Toms Gym",
+                "name": "टॉम्स जिम",
                 "type": "",
                 "contact": "+917947338472",
                 "alt_contact": "",
-                "address": "Opposite to Miet Girl Hostel, Tirora Road, Kudwa, Gondia - 441614"
+                "address": "एम.आई.ई.टी गर्ल्स होस्टल के सामने, तिरोरा रोड, कुडवा, गोंदिया - 441614"
             },
             {
-                "name": "Golds Gym",
+                "name": "गोल्ड्स जिम",
                 "type": "",
                 "contact": "+917798153445",
                 "alt_contact": "",
-                "address": "Sharnagat Complex, Railtoli, Gondia City, Gondia - 441614"
+                "address": "शारनागट कॉम्प्लेक्स, रेलटोली, गोंदिया सिटी, गोंदिया - 441614"
             }
         ],
 		"प्लम्बर": [
 			{
-                "name": "Kailash Gautam",
+                "name": "कैलाश गौतम",
                 "type": "",
                 "contact": "+918308535216",
                 "alt_contact": "",
-                "address": "Gondia"
+                "address": "गोंदिया"
             }
 		],
 		"बढ़ई": [
 			{
-                "name": "Khomesh Rahangdale",
+                "name": "खोमेश रहांगदाले",
                 "type": "",
                 "contact": "+919309502104",
                 "alt_contact": "",
-                "address": "Gondia"
+                "address": "गोंदिया"
             },
             {
-                "name": "Dinesh Rahangdale",
+                "name": "दिनेश रहांगदाले",
                 "type": "",
                 "contact": "+918788928986",
                 "alt_contact": "+919763374169",
-                "address": "Chutiya, Gondia 441614"
+                "address": "चुटिया, गोंदिया 441614"
             }
 		],
 		"पेंटर": [
 			{
-                "name": "Pravin Chavhan",
+                "name": "प्रवीण चव्हाण",
                 "type": "",
                 "contact": "+919552113530",
                 "alt_contact": "",
-                "address": "Gondia"
+                "address": "गोंदिया"
             },
 			{
-                "name": "Sakhil Sheikh",
+                "name": "साखिल शेख",
                 "type": "",
                 "contact": "+917448129368",
                 "alt_contact": "",
-                "address": "Ratnara, Gondia"
+                "address": "रत्नारा, गोंदिया"
             },
 			{
-                "name": "Rekhlal",
+                "name": "रेखलाल",
                 "type": "",
                 "contact": "+917498699253",
                 "alt_contact": "",
-                "address": "Chanditola, Gondia"
+                "address": "चाँदीटोला, गोंदिया"
             }
 		],
 		"टूर एंड ट्रेवल्स": [
             {
-                "name": "Rohit Sharnagat",
+                "name": "रोहित शरनागत",
                 "type": "",
                 "contact": "+917588274523",
                 "alt_contact": "",
-                "address": "Near N.M.D College, Gondia"
+                "address": "एनएमडी कॉलेज के पास, गोंदिया"
             },
             {
-                "name": "Vaidhehi Tour & Travels",
+                "name": "वैदेही टूर एंड ट्रेवल्स",
                 "type": "",
                 "contact": "+919665934507",
                 "alt_contact": "",
-                "address": "Saraswati School, Poonatoli, Gondia"
+                "address": "सरस्वती स्कूल, पूनाटोली, गोंदिया"
             },
             {
-                "name": "Pal Gupta",
+                "name": "पल गुप्ता",
                 "type": "",
                 "contact": "+919145353536",
                 "alt_contact": "",
-                "address": "Pal Chowk, Gondia - 441614"
+                "address": "पाल चौक, गोंदिया - 441614"
             },
             {
-                "name": "Mahesh Tiwari",
+                "name": "महेश तिवारी",
                 "type": "",
                 "contact": "+919588650658",
                 "alt_contact": "",
-                "address": "Gondia - 441614"
+                "address": "गोंदिया - 441614"
             }
         ],
 		"फोटोशूट": [
             {
-                "name": "Mayank Studio",
+                "name": "मयंक स्टूडियो",
                 "type": "",
                 "contact": "+919371734674",
                 "alt_contact": "",
-                "address": "Near Hotel The Grand Sita, Tiroda Road, Gondia City, Gondia - 441614"
+                "address": "द ग्रैंड सीत होटल के पास, तिरोदा रोड, गोंदिया सिटी, गोंदिया - 441614"
             }, 
             {
-                "name": "Vishal Photography",
+                "name": "विशाल फोटोग्राफी",
                 "type": "",
                 "contact": "+919921457646",
                 "alt_contact": "",
-                "address": "1st Floor of Turkar Bhavan, In Front of S.P. College, Dasgaon, Gondia Road - 441614"
+                "address": "तुरकर भवन की पहली मंजिल, एस.पी. कॉलेज के सामने, दासगांव, गोंदिया रोड - 441614"
             }
         ],
 		"फ़्रिज सुधारने वाला": [],
@@ -327,181 +327,181 @@
 		"माइक्रोवेव सुधारने वाला": [],
 		"मज़दूर": [
             {
-                "name": "Sanjay Amkar",
+                "name": "संजय अमकर",
                 "type": "",
                 "contact": "+919049496563",
                 "alt_contact": "",
-                "address": "Main Market, Gondia"
+                "address": "मेन मार्केट, गोंदिया"
             },
             {
-                "name": "Parmod Bhandarkar",
+                "name": "प्रमोद भंडारकर",
                 "type": "",
                 "contact": "+919823072276",
                 "alt_contact": "",
-                "address": "Main Market, Gondia"
+                "address": "मेन मार्केट, गोंदिय"
             }
         ],
 		"टीवी सुधारने वाला": [],
 		"घर बनाने एवं मरम्मत करने वाला": [
 			{
-                "name": "Ambarlal Daudsare",
+                "name": "अंबरलाल दाउदसरे",
                 "type": "",
                 "contact": "+918408923944",
                 "alt_contact": "",
-                "address": "Mahalgaon, Gondia"
+                "address": "महलगांव, गोंदिया"
             },
             {
-                "name": "Ganu Marthe",
+                "name": "गनु मार्थे",
                 "type": "",
                 "contact": "+917875807469",
                 "alt_contact": "",
-                "address": "Gondia"
+                "address": "गोंदिया"
             },
             {
-                "name": "Tejlal Banote",
+                "name": "तेजलाल बनोटे",
                 "type": "",
                 "contact": "+919657892014",
                 "alt_contact": "+918830927532",
-                "address": "Gondia"
+                "address": "गोंदिया"
             },
 			{
-                "name": "Sumit Singh",
+                "name": "सुमित सिंग",
                 "type": "",
                 "contact": "+919404306322",
                 "alt_contact": "",
-                "address": "Railtoli, Gondia"
+                "address": "रेलटोली, गोंदिया"
             }
         ],
 		"वाईफाई प्रदाता": [
             {
-                "name": "Nexsuses Solution (Orange)",
+                "name": "नेक्सस्यूज सॉल्यूशन (ऑरेंज)",
                 "type": "",
                 "contact": "+917999549464",
                 "alt_contact": "+919993867527",
-                "address": "Behind BHJ College Basant Nagar, Gondia - 441601"
+                "address": "बीएचजे कॉलेज के पीछे बसंत नगर, गोंदिया - 441601"
             },
             {
-                "name": "Rail Wire (Airborne)",
+                "name": "रेल वायर (एयरबोर्न)",
                 "type": "",
                 "contact": "+917588770288",
                 "alt_contact": "+917588872753",
-                "address": "Near Harinkhede Petrol Pump, Shriram Nagar, Tiroda Road, Gondia City, Gondia - 441614"
+                "address": "हरिनखेड़े पेट्रोल पंप के पास, श्रीराम नगर, तिरोदा रोड, गोंदिया सिटी, गोंदिया - 441614"
             }
         ],
 		"दंत चिकित्सक": [
             {
-                "name": "Mahalaxmi",
+                "name": "महालक्ष्मी",
                 "type": "",
                 "contact": "+918080122519",
                 "alt_contact": "+917448040239",
-                "address": "Angur Bagicha Road, Gajanan Colony, Gondia - 441601"
+                "address": "अंगुर बागीचा रोड, गजानन कॉलोनी, गोंदिया - 441601"
             }
         ],
 		"टाइल्स मार्बल लगाने वाला": [
             {
-                "name": "Tejram",
+                "name": "तेजराम",
                 "type": "",
                 "contact": "+919923761192",
                 "alt_contact": "",
-                "address": "Ratnara, Gondia - 441601"
+                "address": "रत्नारा, गोंदिया - 441601"
             },
 			{
-                "name": "Chintu Ruhela",
+                "name": "चिंटू रुहेला",
                 "type": "",
                 "contact": "+918963940046",
                 "alt_contact": "",
-                "address": "Chanditola, Gondia - 441601"
+                "address": "चंडीटोला, गोंदिया - 441601"
             }
         ],
 		"पुरानी चीज़ो के विक्रेता": [
             {
-                "name": "Rahul Bike Dealer",
-                "type": "Bike",
+                "name": "राहुल बाइक डीलर",
+                "type": "बाइक",
                 "contact": "+918305357598",
                 "alt_contact": "",
-                "address": "Gondia - 441601"
+                "address": "गोंदिया - 441601"
             },
             {
-                "name": "Pal Gupta",
-                "type": "Laptop",
+                "name": "पल गुप्ता",
+                "type": "लैपटॉप",
                 "contact": "+919145353536",
                 "alt_contact": "",
-                "address": "Pal Chowk, Gondia - 441614"
+                "address": "पाल चौक, गोंदिया - 441614"
             }
         ],
 		"भवन निर्माण सामग्री के आपूर्तिकर्ता": [
             {
-                "name": "Saurav Chourasia",
-                "type": "Bricks, Cement, Sand",
+                "name": "सौरव चौरसिया",
+                "type": "ईंटें, सीमेंट, रेती",
                 "contact": "+919595080035",
                 "alt_contact": "",
-                "address": "Railtoly, Gondia - 441601"
+                "address": "रेलटोली, गोंदिया - 441601"
             },
 	    {
                 "name": "Rathod Agencies",
-                "type": "Cement, Cement Door Frames, Waterpipes",
+                "type": "सीमेंट, सीमेंट दरवाजे के फ्रेम, पानी के पाइप",
                 "contact": "+919890918177",
                 "alt_contact": "",
-                "address": "In Opposite Of PWD Rest House, Shivaji Nagar, Balaghat Rd, Gondia - 441601"
+                "address": "पी डब्ल्यू डी रेस्ट हाउस के सामने, शिवाजी नगर, बालाघाट रोड, गोंदिया - 441601"
             },
 	    {
-                "name": "Ashish Nagpure",
-                "type": "River Sand, Cement, Concrete Gravel (20mm,40mm), Bricks (White,Red)",
+                "name": "आशीष नागपुरे",
+                "type": "नदी की रेत, सीमेंट, बजरी (20 मिमी, 40 मिमी), ईंटें (सफेद, लाल)",
                 "contact": "+917798623759",
                 "alt_contact": "",
-                "address": "Mahavir Colony, Tiroda Road, Kudwa, Gondia"
+                "address": "महावीर कॉलोनी, तिरोदा रोड, कुडवा, गोंदिया"
             },
 	    {
-                "name": "Dhananjay Bahekar",
-                "type": "Cement, Bricks",
+                "name": "धनंजय बहेकर",
+                "type": "सीमेंट, ईंटें",
                 "contact": "+918208317250",
                 "alt_contact": "",
-                "address": "Palkheda, Gondia"
+                "address": "पलखेड़ा, गोंदिया"
             }
         ],
 		"जलरोधक": [
             {
-                "name": "Sudhir Bopche",
+                "name": "सुधीर बोपचे",
                 "type": "",
                 "contact": "+919766981764",
                 "alt_contact": "",
-                "address": "At Dongargaon, Gondia - 441601"
+                "address": "डोंगरगांव, गोंदिया - 441601"
             }
         ],
 		"सीसीटीवी लगाने वाला": [
             {
-                "name": "Ansh Technologies",
+                "name": "अंश टेक्नोलॉजीज",
                 "type": "",
                 "contact": "+919145353536",
                 "alt_contact": "",
-                "address": "Pal Chowk, Gondia - 441614"
+                "address": "पाल चौक, गोंदिया - 441614"
             }
         ],
 		"दर्जी": [
             {
-                "name": "Belge Tailors",
+                "name": "बेल्गे टेलर्स",
                 "type": "",
                 "contact": "+919371345862",
                 "alt_contact": "",
-                "address": "Shiv Nagar, Manohar Bhai Ward, Angur Bagicha Road, Gondia"
+                "address": "शिव नगर, मनोहर भाई वार्ड, अंगुर बागीचा रोड, गोंदिया"
             }
         ],
 		"ग्राफ़िक डिज़ाइनर": [
             {
-                "name": "Maa Graphics",
-                "type": "Poster, Visiting Card, Wedding Card, Flex",
+                "name": "माँ ग्राफिक्स",
+                "type": "पोस्टर, विजिटिंग कार्ड, वेडिंग कार्ड, फ्लेक्स",
                 "contact": "+917066775617",
                 "alt_contact": "",
-                "address": "Poona Toli, Gondia, Maharashtra"
+                "address": "पूना टोली, गोंदिया, महाराष्ट्र"
             }
         ],
 		"गैस स्टोव सुधारने वाला": [
             {
-                "name": "Mahesh Upadhyay",
-                "type": "Stove, Burner, Pipe Leakage",
+                "name": "महेश उपाध्याय",
+                "type": "स्टोव, बर्नर, पाइप रिसाव",
                 "contact": "+919960763207",
                 "alt_contact": "",
-                "address": "Gondia, Maharashtra"
+                "address": "गोंदिया, महाराष्ट्र"
             }
         ]
     }
