@@ -1,0 +1,32 @@
+[
+    {
+      "name": "Navabharat",
+      "logo": "fas fa-newspaper",
+      "link": "https://www.enavabharat.com/gondia-news-hindi/",
+      "mode": "_blank"
+    },
+    {
+      "name": "Navabharat ePaper",
+      "logo": "far fa-newspaper",
+      "link": "ePaperModal",
+      "mode": "_blank"
+    },
+    {
+      "name": "Spot Your Train",
+      "logo": "fas fa-train",
+      "link": "https://enquiry.indianrail.gov.in/mntes/",
+      "mode": "_blank"
+    },
+    {
+      "name": "Book My Show",
+      "logo": "fas fa-bold",
+      "link": "https://in.bookmyshow.com/explore/movies-gondia",
+      "mode": "_blank"
+    },
+    {
+      "name": "Tourist Places",
+      "logo": "fas fa-place-of-worship",
+      "link": "https://www.tripadvisor.in/Attractions-g2285453-Activities-Gondia_Gondia_District_Maharashtra.html",
+      "mode": "_blank"
+    }
+  ]

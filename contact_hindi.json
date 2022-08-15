@@ -1,0 +1,526 @@
+[
+    {
+        "AC Reparing Installation": [
+            {
+                "name": "Monu Khan",
+                "type": "",
+                "contact": "+919834417047",
+                "alt_contact": "",
+                "address": "Gondia"
+            },
+            {
+                "name": "Rumesh Badhel",
+                "type": "",
+                "contact": "+918857845020",
+                "alt_contact": "",
+                "address": "Gautam Nagar Bajpai Ward Gondia"
+            },
+            {
+                "name": "Guddu Hussaini",
+                "type": "",
+                "contact": "+919373294907",
+                "alt_contact": "",
+                "address": "Gondia"
+            }
+        ],
+        "Wine & Bar Shop": [
+            {
+                "name": "Lovely Bar",
+                "type": "",
+                "contact": "+918378895377",
+                "alt_contact": "",
+                "address": "Near Railway Station Railtoli Gondia"
+            },
+	    {
+                "name": "Vibrant Bar",
+                "type": "",
+                "contact": "+918007738319",
+                "alt_contact": "",
+                "address": "Near Pani Tanki, Kudwa, Gondia"
+            }
+        ],
+        "Restaurants": [
+            {
+                "name": "Gammat Jammat",
+                "type": "Fast Food",
+                "contact": "+917798617666",
+                "alt_contact": "",
+                "address": "Kudwa, Gondia - 441614"
+            },
+	    {
+                "name": "Geniezzz",
+                "type": "Shawarma",
+                "contact": "+918698091205",
+                "alt_contact": "",
+                "address": "Opposite Of Jain Bakery, Railtoly, Gondia"
+            }
+        ],
+        "Home Automation": [
+            {
+                "name": "TechKisan",
+                "type": "",
+                "contact": "+918698105221",
+                "alt_contact": "",
+                "address": "1st Floor, Ambule House, Murri, Gondia"
+            }
+        ],
+        "Hospital": [
+            {
+                "name": "Sahayog Hospital",
+                "type": "",
+                "contact": "+917947338543",
+                "alt_contact": "",
+                "address": "Near Sai Mandir, Awanti Bai Square, Ring Road, Gondia City, Gondia"
+            },
+            {
+                "name": "Epione Hospital LLP",
+                "type": "",
+                "contact": "+918379852653",
+                "alt_contact": "",
+                "address": "Behind Nirmal Theatre, Epione Hospital LLP, Shastri Ward, Gondia"
+            },
+            {
+                "name": "Gondia Care Hospital",
+                "type": "",
+                "contact": "+917182236442",
+                "alt_contact": "",
+                "address": "Civil Lines, Bajaj Nagar, Gondia, Maharashtra 441601"
+            },
+            {
+                "name": "KMJ Hospital",
+                "type": "",
+                "contact": "+917182238433",
+                "alt_contact": "",
+                "address": "Behind Nirmal Theatre, Shastri Ward, Near Yashodha Sabhagruh, Gondia Ho, Gondia - 441601"
+            },
+            {
+                "name": "Gondia City Hospital",
+                "type": "",
+                "contact": "+917182233828",
+                "alt_contact": "",
+                "address": "Near, Naka, Nagpur, Road, Bajaj Nagar, Fulchur, Maharashtra 441601"
+            },
+            {
+                "name": "B.J. Hospital",
+                "type": "",
+                "contact": "+918007494848",
+                "alt_contact": "",
+                "address": "Ganesh Nagar, Gondia, Maharashtra 441601"
+            }
+        ],
+        "Computer Repair": [
+            {
+                "name": "Computer Workshop",
+                "type": "",
+                "contact": "+919372939139",
+                "alt_contact": "",
+                "address": "Opposite Syndicate Bank Durga Chowk, Maheswari Bhavan, Kuwa Lane, Gondia Bazar, Gondia - 441601"
+            },
+            {
+                "name": "Computer Care",
+                "type": "",
+                "contact": "+919423384792",
+                "alt_contact": "",
+                "address": "Near Gujrati Samajwadi Main Market Purohit Complex, Shop No 3 Deshbandhu Ward, Gondia, Maharashtra 441601"
+            },
+            {
+                "name": "Lohiya Systems",
+                "type": "",
+                "contact": "+919923228882",
+                "alt_contact": "",
+                "address": "In Front Of Bhaktaraj Durga Square, Kisan Sankul, Kudwa Line, Gondia City, Gondia - 441614"
+            }
+        ],
+        "Electrician": [
+            {
+                "name": "Raj Banote",
+                "type": "",
+                "contact": "+918999906315",
+                "alt_contact": "",
+                "address": "Katangi, Gondia - 441614"
+            },
+            {
+                "name": "Shubham Electronics",
+                "type": "",
+                "contact": "+919021318118",
+                "alt_contact": "",
+                "address": "Shashtri Chowk Govindpur Road, Gondia - 441614"
+            },
+            {
+                "name": "Kailash Gautam",
+                "type": "",
+                "contact": "+918308535216",
+                "alt_contact": "",
+                "address": "Gondia"
+            },
+            {
+                "name": "Pramod Rahangdale",
+                "type": "",
+                "contact": "+919579501294",
+                "alt_contact": "",
+                "address": "Gondia"
+            },
+            {
+                "name": "DG Shende",
+                "type": "",
+                "contact": "+919822922648",
+                "alt_contact": "",
+                "address": "Ramnagar, Gondia"
+            },
+            {
+                "name": "Dipak Jounjare",
+                "type": "",
+                "contact": "+918208180374",
+                "alt_contact": "",
+                "address": "T.B Toli, Gondia"
+            }
+        ],
+        "Music Teacher": [
+            {
+                "name": "Tushar Guitar Classes",
+                "type": "Guitar",
+                "contact": "+918793880589",
+                "alt_contact": "",
+                "address": "Ramnagar, Gondia - 441614"
+            },
+            {
+                "name": "Anugrah Ramteke",
+                "type": "Guitar",
+                "contact": "+919175981702",
+                "alt_contact": "",
+                "address": "Near Arora Bhavan, Ramnagar, Gondia - 441614"
+            },
+            {
+                "name": "Kapil Parmar",
+                "type": "Guitar, Tabla, Piano",
+                "contact": "+919326558670",
+                "alt_contact": "+919637777298",
+                "address": "Near Hanuman Mandir, Pal Chowk, Gondia - 441614"
+            }
+        ],
+        "Gym": [
+            {
+                "name": "Fitness Studio",
+                "type": "",
+                "contact": "+919145353536",
+                "alt_contact": "",
+                "address": "Near Hanuman Mandir, Pal Chowk, Gondia - 441614"
+            },
+            {
+                "name": "Nobel Gym & Crossfit",
+                "type": "",
+                "contact": "+917947179461",
+                "alt_contact": "",
+                "address": "Opp Sagrika Hotel, Shri Sai Complex 1st Floor, Balaghat Road, Gondia City, Gondia - 441614"
+            },
+            {
+                "name": "Toms Gym",
+                "type": "",
+                "contact": "+917947338472",
+                "alt_contact": "",
+                "address": "Opposite to Miet Girl Hostel, Tirora Road, Kudwa, Gondia - 441614"
+            },
+            {
+                "name": "Golds Gym",
+                "type": "",
+                "contact": "+917798153445",
+                "alt_contact": "",
+                "address": "Sharnagat Complex, Railtoli, Gondia City, Gondia - 441614"
+            }
+        ],
+        "Plumber": [
+			{
+                "name": "Kailash Gautam",
+                "type": "",
+                "contact": "+918308535216",
+                "alt_contact": "",
+                "address": "Gondia"
+            }
+		],
+        "Carpenter": [
+			{
+                "name": "Khomesh Rahangdale",
+                "type": "",
+                "contact": "+919309502104",
+                "alt_contact": "",
+                "address": "Gondia"
+            },
+            {
+                "name": "Dinesh Rahangdale",
+                "type": "",
+                "contact": "+918788928986",
+                "alt_contact": "+919763374169",
+                "address": "Chutiya, Gondia 441614"
+            }
+		],
+        "Painter": [
+			{
+                "name": "Pravin Chavhan",
+                "type": "",
+                "contact": "+919552113530",
+                "alt_contact": "",
+                "address": "Gondia"
+            },
+			{
+                "name": "Sakhil Sheikh",
+                "type": "",
+                "contact": "+917448129368",
+                "alt_contact": "",
+                "address": "Ratnara, Gondia"
+            },
+			{
+                "name": "Rekhlal",
+                "type": "",
+                "contact": "+917498699253",
+                "alt_contact": "",
+                "address": "Chanditola, Gondia"
+            }
+		],
+        "Tour & Travels": [
+            {
+                "name": "Rohit Sharnagat",
+                "type": "",
+                "contact": "+917588274523",
+                "alt_contact": "",
+                "address": "Near N.M.D College, Gondia"
+            },
+            {
+                "name": "Vaidhehi Tour & Travels",
+                "type": "",
+                "contact": "+919665934507",
+                "alt_contact": "",
+                "address": "Saraswati School, Poonatoli, Gondia"
+            },
+            {
+                "name": "Pal Gupta",
+                "type": "",
+                "contact": "+919145353536",
+                "alt_contact": "",
+                "address": "Pal Chowk, Gondia - 441614"
+            },
+            {
+                "name": "Mahesh Tiwari",
+                "type": "",
+                "contact": "+919588650658",
+                "alt_contact": "",
+                "address": "Gondia - 441614"
+            }
+        ],
+        "Photoshoot": [
+            {
+                "name": "Mayank Studio",
+                "type": "",
+                "contact": "+919371734674",
+                "alt_contact": "",
+                "address": "Near Hotel The Grand Sita, Tiroda Road, Gondia City, Gondia - 441614"
+            }, 
+            {
+                "name": "Vishal Photography",
+                "type": "",
+                "contact": "+919921457646",
+                "alt_contact": "",
+                "address": "1st Floor of Turkar Bhavan, In Front of S.P. College, Dasgaon, Gondia Road - 441614"
+            }
+        ],
+        "Refrigerator Technician": [],
+        "Washing Machine Technician": [],
+        "Microwave Technician": [],
+        "Worker Labour": [
+            {
+                "name": "Sanjay Amkar",
+                "type": "",
+                "contact": "+919049496563",
+                "alt_contact": "",
+                "address": "Main Market, Gondia"
+            },
+            {
+                "name": "Parmod Bhandarkar",
+                "type": "",
+                "contact": "+919823072276",
+                "alt_contact": "",
+                "address": "Main Market, Gondia"
+            }
+        ],
+        "TV Technician": [],
+        "House Maker Repair": [
+			{
+                "name": "Ambarlal Daudsare",
+                "type": "",
+                "contact": "+918408923944",
+                "alt_contact": "",
+                "address": "Mahalgaon, Gondia"
+            },
+            {
+                "name": "Ganu Marthe",
+                "type": "",
+                "contact": "+917875807469",
+                "alt_contact": "",
+                "address": "Gondia"
+            },
+            {
+                "name": "Tejlal Banote",
+                "type": "",
+                "contact": "+919657892014",
+                "alt_contact": "+918830927532",
+                "address": "Gondia"
+            },
+			{
+                "name": "Sumit Singh",
+                "type": "",
+                "contact": "+919404306322",
+                "alt_contact": "",
+                "address": "Railtoli, Gondia"
+            }
+        ],
+        "Wifi Provider": [
+            {
+                "name": "Nexsuses Solution (Orange)",
+                "type": "",
+                "contact": "+917999549464",
+                "alt_contact": "+919993867527",
+                "address": "Behind BHJ College Basant Nagar, Gondia - 441601"
+            },
+            {
+                "name": "Rail Wire (Airborne)",
+                "type": "",
+                "contact": "+917588770288",
+                "alt_contact": "+917588872753",
+                "address": "Near Harinkhede Petrol Pump, Shriram Nagar, Tiroda Road, Gondia City, Gondia - 441614"
+            }
+        ],
+        "Dentist": [
+            {
+                "name": "Mahalaxmi",
+                "type": "",
+                "contact": "+918080122519",
+                "alt_contact": "+917448040239",
+                "address": "Angur Bagicha Road, Gajanan Colony, Gondia - 441601"
+            }
+        ],
+        "Tiles Marble Fitting": [
+            {
+                "name": "Tejram",
+                "type": "",
+                "contact": "+919923761192",
+                "alt_contact": "",
+                "address": "Ratnara, Gondia - 441601"
+            },
+			{
+                "name": "Chintu Ruhela",
+                "type": "",
+                "contact": "+918963940046",
+                "alt_contact": "",
+                "address": "Chanditola, Gondia - 441601"
+            }
+        ],
+        "2nd Hand Products": [
+            {
+                "name": "Rahul Bike Dealer",
+                "type": "Bike",
+                "contact": "+918305357598",
+                "alt_contact": "",
+                "address": "Gondia - 441601"
+            },
+            {
+                "name": "Pal Gupta",
+                "type": "Laptop",
+                "contact": "+919145353536",
+                "alt_contact": "",
+                "address": "Pal Chowk, Gondia - 441614"
+            }
+        ],
+        "Building Material Supplier": [
+            {
+                "name": "Saurav Chourasia",
+                "type": "Bricks, Cement, Sand",
+                "contact": "+919595080035",
+                "alt_contact": "",
+                "address": "Railtoly, Gondia - 441601"
+            },
+	    {
+                "name": "Rathod Agencies",
+                "type": "Cement, Cement Door Frames, Waterpipes",
+                "contact": "+919890918177",
+                "alt_contact": "",
+                "address": "In Opposite Of PWD Rest House, Shivaji Nagar, Balaghat Rd, Gondia - 441601"
+            },
+	    {
+                "name": "Ashish Nagpure",
+                "type": "River Sand, Cement, Concrete Gravel (20mm,40mm), Bricks (White,Red)",
+                "contact": "+917798623759",
+                "alt_contact": "",
+                "address": "Mahavir Colony, Tiroda Road, Kudwa, Gondia"
+            },
+	    {
+                "name": "Dhananjay Bahekar",
+                "type": "Cement, Bricks",
+                "contact": "+918208317250",
+                "alt_contact": "",
+                "address": "Palkheda, Gondia"
+            }
+        ],
+        "Waterproofing": [
+            {
+                "name": "Sudhir Bopche",
+                "type": "",
+                "contact": "+919766981764",
+                "alt_contact": "",
+                "address": "At Dongargaon, Gondia - 441601"
+            }
+        ],
+        "Salon and Spa": [
+            {
+                "name": "Mahendra Lanjewar",
+                "type": "Male",
+                "contact": "+917721885003",
+                "alt_contact": "",
+                "address": "Sri Talkies Chowk, Gondia - 441601"
+            }
+        ],
+        "Cake Shop & Bakery": [
+            {
+                "name": "Jain Bakery",
+                "type": "",
+                "contact": "+918149910008",
+                "alt_contact": "+918983237326",
+                "address": "Gandi Market, Near UCO Bank, Rail Toli, Gondia - 441601"
+            }
+        ],
+        "CCTV Installation": [
+            {
+                "name": "Ansh Technologies",
+                "type": "",
+                "contact": "+919145353536",
+                "alt_contact": "",
+                "address": "Pal Chowk, Gondia - 441614"
+            }
+        ],
+        "Tailor": [
+            {
+                "name": "Belge Tailors",
+                "type": "",
+                "contact": "+919371345862",
+                "alt_contact": "",
+                "address": "Shiv Nagar, Manohar Bhai Ward, Angur Bagicha Road, Gondia"
+            }
+        ],
+        "Graphic Designer": [
+            {
+                "name": "Maa Graphics",
+                "type": "Poster, Visiting Card, Wedding Card, Flex",
+                "contact": "+917066775617",
+                "alt_contact": "",
+                "address": "Poona Toli, Gondia, Maharashtra"
+            }
+        ],
+        "Gas Stove Reparing": [
+            {
+                "name": "Mahesh Upadhyay",
+                "type": "Stove, Burner, Pipe Leakage",
+                "contact": "+919960763207",
+                "alt_contact": "",
+                "address": "Gondia, Maharashtra"
+            }
+        ]
+    }
+]

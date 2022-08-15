@@ -1,0 +1,130 @@
+[
+    {
+       "name": "AC Reparing Installation",
+       "logo": "fas fa-wind"
+    },
+    {
+       "name": "Home Automation",
+       "logo": "fas fa-laptop-house"
+    },
+    {
+       "name": "Computer Repair",
+       "logo": "fas fa-desktop"
+    },
+    {
+       "name": "Electrician",
+       "logo": "fas fa-bolt"
+    },
+    {
+       "name": "Music Teacher",
+       "logo": "fas fa-music"
+    },
+    {
+       "name": "Gym",
+       "logo": "fas fa-dumbbell"
+    },
+    {
+       "name": "Plumber",
+       "logo": "fas fa-faucet"
+    },
+    {
+       "name": "Painter",
+       "logo": "fas fa-paint-roller"
+    },
+    {
+       "name": "Tour & Travels",
+       "logo": "fas fa-car-side"
+    },
+    {
+       "name": "Photoshoot",
+       "logo": "fas fa-camera"
+    },
+    {
+       "name": "Refrigerator Technician",
+       "logo": "fas fa-door-closed"
+    },
+    {
+       "name": "Washing Machine Technician",
+       "logo": "fab fa-unsplash"
+    },
+    {
+       "name": "Microwave Technician",
+       "logo": "fas fa-window-maximize"
+    },
+    {
+       "name": "Worker Labour",
+       "logo": "fas fa-users"
+    },
+    {
+       "name": "TV Technician",
+       "logo": "fas fa-tv"
+    },
+	{
+       "name": "Wine & Bar Shop",
+       "logo": "fas fa-wine-glass-alt"
+    },
+	{
+       "name": "Hospital",
+       "logo": "far fa-hospital"
+    },
+    {
+        "name": "House Maker Repair",
+        "logo": "fa fa-home"
+    },
+    {
+        "name": "Wifi Provider",
+        "logo": "fa fa-wifi"
+    },
+    {
+        "name": "Dentist",
+        "logo": "fas fa-tooth"
+    },
+    {
+        "name": "Carpenter",
+        "logo": "fas fa-hammer"
+    },
+    {
+        "name": "Tiles Marble Fitting",
+        "logo": "fas fa-th"
+    },
+    {
+        "name": "2nd Hand Products",
+        "logo": "fas fa-box"
+    },
+    {
+        "name": "Building Material Supplier",
+        "logo": "far fa-building"
+    },
+    {
+        "name": "Waterproofing",
+        "logo": "fas fa-tint-slash"
+    },
+    {
+        "name": "Salon and Spa",
+        "logo": "fas fa-cut"
+    },
+    {
+        "name": "Cake Shop & Bakery",
+        "logo": "fas fa-birthday-cake"
+    },
+    {
+        "name": "CCTV Installation",
+        "logo": "fa fa-video"
+    },
+    {
+        "name": "Tailor",
+        "logo": "fas fa-tshirt"
+    },
+    {
+        "name": "Restaurants",
+        "logo": "fas fa-utensils"
+    },
+    {
+        "name": "Graphic Designer",
+        "logo": "far fa-images"
+    },
+    {
+        "name": "Gas Stove Reparing",
+        "logo": "fab fa-free-code-camp"
+    }
+ ]
