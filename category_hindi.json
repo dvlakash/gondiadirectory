@@ -1,14 +1,14 @@
 [
     {
-       "name": "AC Reparing Installation",
+       "name": "एसी लगाने एवं मरम्मत करने वाला",
        "logo": "fas fa-wind"
     },
     {
-       "name": "Home Automation",
+       "name": "होम ऑटोमेशन",
        "logo": "fas fa-laptop-house"
     },
     {
-       "name": "Computer Repair",
+       "name": "कंप्यूटर मरम्मत",
        "logo": "fas fa-desktop"
     },
     {
@@ -16,83 +16,83 @@
        "logo": "fas fa-bolt"
     },
     {
-       "name": "Music Teacher",
+       "name": "संगीत शिक्षक",
        "logo": "fas fa-music"
     },
     {
-       "name": "Gym",
+       "name": "जिम",
        "logo": "fas fa-dumbbell"
     },
     {
-       "name": "Plumber",
+       "name": "प्लम्बर",
        "logo": "fas fa-faucet"
     },
     {
-       "name": "Painter",
+       "name": "पेंटर",
        "logo": "fas fa-paint-roller"
     },
     {
-       "name": "Tour & Travels",
+       "name": "टूर एंड ट्रेवल्स",
        "logo": "fas fa-car-side"
     },
     {
-       "name": "Photoshoot",
+       "name": "फोटोशूट",
        "logo": "fas fa-camera"
     },
     {
-       "name": "Refrigerator Technician",
+       "name": "फ़्रिज सुधारने वाला",
        "logo": "fas fa-door-closed"
     },
     {
-       "name": "Washing Machine Technician",
+       "name": "वाशिंग मशीन सुधारने वाला",
        "logo": "fab fa-unsplash"
     },
     {
-       "name": "Microwave Technician",
+       "name": "माइक्रोवेव सुधारने वाला",
        "logo": "fas fa-window-maximize"
     },
     {
-       "name": "Worker Labour",
+       "name": "मज़दूर",
        "logo": "fas fa-users"
     },
     {
-       "name": "TV Technician",
+       "name": "टीवी सुधारने वाला",
        "logo": "fas fa-tv"
     },
 	{
-       "name": "Wine & Bar Shop",
+       "name": "शराब की दुकान",
        "logo": "fas fa-wine-glass-alt"
     },
 	{
-       "name": "Hospital",
+       "name": "अस्पताल",
        "logo": "far fa-hospital"
     },
     {
-        "name": "House Maker Repair",
+        "name": "घर बनाने एवं मरम्मत करने वाला",
         "logo": "fa fa-home"
     },
     {
-        "name": "Wifi Provider",
+        "name": "वाईफाई प्रदाता",
         "logo": "fa fa-wifi"
     },
     {
-        "name": "Dentist",
+        "name": "दंत चिकित्सक",
         "logo": "fas fa-tooth"
     },
     {
-        "name": "Carpenter",
+        "name": "बढ़ई",
         "logo": "fas fa-hammer"
     },
     {
-        "name": "Tiles Marble Fitting",
+        "name": "टाइल्स मार्बल लगाने वाला",
         "logo": "fas fa-th"
     },
     {
-        "name": "2nd Hand Products",
+        "name": "पुरानी चीज़ो के विक्रेता",
         "logo": "fas fa-box"
     },
     {
-        "name": "Building Material Supplier",
+        "name": "भवन निर्माण सामग्री के आपूर्तिकर्ता",
         "logo": "far fa-building"
     },
     {
