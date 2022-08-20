@@ -12,6 +12,12 @@
       "mode": "_blank"
     },
     {
+      "name": "MSEB Gondia",
+      "logo": "fas fa-bolt",
+      "link": "https://gondia.gov.in/en/public-utility-category/electricity/",
+      "mode": "_blank"
+    },
+    {
       "name": "Spot Your Train",
       "logo": "fas fa-train",
       "link": "https://enquiry.indianrail.gov.in/mntes/",
