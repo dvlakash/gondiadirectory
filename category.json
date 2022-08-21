@@ -118,5 +118,9 @@
     {
         "name": "Gas Stove Reparing",
         "logo": "fab fa-free-code-camp"
+    },
+    {
+        "name": "Mobile Phone Reparing",
+        "logo": "fas fa-mobile-alt"
     }
  ]
