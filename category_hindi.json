@@ -118,5 +118,9 @@
     {
         "name": "गैस स्टोव सुधारने वाला",
         "logo": "fab fa-free-code-camp"
+    },
+    {
+        "name": "मोबाइल फोन सुधारने वाला",
+        "logo": "fas fa-mobile-alt"
     }
  ]
