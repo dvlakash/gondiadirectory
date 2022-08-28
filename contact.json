@@ -540,6 +540,15 @@
                 "alt_contact": "",
                 "address": "Dynamic Mobile, K.K. Complex, Shree Talkies Road, Gondia, Maharashtra"
             }
+        ],
+        "Auto Rikshaw": [
+	    {
+                "name": "Sayeem Qureshi",
+                "type": "",
+                "contact": "+918407932624",
+                "alt_contact": "",
+                "address": "Husaini Chowk, Ramnagar, Gondia"
+            }
         ]
     }
 ]
