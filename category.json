@@ -122,5 +122,9 @@
     {
         "name": "Mobile Phone Reparing",
         "logo": "fas fa-mobile-alt"
+    },
+    {
+        "name": "Auto Rikshaw",
+        "logo": "fas fa-taxi"
     }
  ]
