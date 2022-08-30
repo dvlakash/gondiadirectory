@@ -556,6 +556,22 @@
                 "alt_contact": "",
                 "address": "Railtoli, Gondia"
             }
+        ],
+        "Ragman (Kabaddi)": [
+	    {
+                "name": "Lakhan Shende",
+                "type": "",
+                "contact": "+918261938539",
+                "alt_contact": "",
+                "address": "Gondia"
+            },
+	    {
+                "name": "Rakesh Nagdeve",
+                "type": "",
+                "contact": "+919503156816",
+                "alt_contact": "",
+                "address": "Suryatola, Gondia"
+            }
         ]
     }
 ]
