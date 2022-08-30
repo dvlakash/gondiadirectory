@@ -53,7 +53,7 @@
     },
     {
        "name": "मज़दूर",
-       "logo": "fas fa-users"
+       "logo": "fas fa-people-carry"
     },
     {
        "name": "टीवी सुधारने वाला",
@@ -126,5 +126,9 @@
     {
         "name": "ऑटो रिक्शा",
         "logo": "fas fa-taxi"
+    },
+    {
+        "name": "कबाड़ी वाला",
+        "logo": "fas fa-recycle"
     }
  ]
