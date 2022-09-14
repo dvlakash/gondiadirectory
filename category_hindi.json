@@ -142,5 +142,9 @@
     {
         "name": "ड्राइविंग स्कूल",
         "logo": "fas fa-car"
+    },
+    {
+        "name": "सौर पैनल इंटीग्रेटर",
+        "logo": "fas fa-solar-panel"
     }
  ]
