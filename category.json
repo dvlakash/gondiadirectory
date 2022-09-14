@@ -150,5 +150,9 @@
     {
         "name": "Inverter Battery Seller Repairing",
         "logo": "fas fa-car-battery"
+    },
+    {
+        "name": "Real Estate Property Dealer",
+        "logo": "fas fa-city"
     }
  ]
