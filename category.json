@@ -138,5 +138,9 @@
     {
         "name": "DJ Dhumal Sound",
         "logo": "fas fa-volume-up"
+    },
+    {
+        "name": "Driving School",
+        "logo": "fas fa-car"
     }
  ]
