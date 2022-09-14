@@ -146,5 +146,9 @@
     {
         "name": "सौर पैनल इंटीग्रेटर",
         "logo": "fas fa-solar-panel"
+    },
+    {
+        "name": "इन्वर्टर बैटरी विक्रेता और मरम्मत",
+        "logo": "fas fa-car-battery"
     }
  ]
