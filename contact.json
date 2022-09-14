@@ -593,6 +593,31 @@
                 "alt_contact": "",
                 "address": "Suryatola, Gondia"
             }
+        ],
+        "Event Planner": [
+	    {
+                "name": "Pravin/Gautam Gondane",
+                "type": "Wedding, Birthday Party, Ceremony",
+                "contact": "+919545153610",
+                "alt_contact": "+919923029210",
+                "address": "At Post Mohgaon Tal Goregaon, Gondia, Maharashtra 441614"
+            }
+        ],
+        "DJ Dhumal Sound": [
+	    {
+                "name": "Chourasia DJ",
+                "type": "",
+                "contact": "+919325197691",
+                "alt_contact": "",
+                "address": "Near Chourasia Bichhyat Kendra, Railtoly, Poonatoli, Gondia, Maharashtra 441614"
+            },
+	    {
+                "name": "GS DJ Dhumal",
+                "type": "",
+                "contact": "+919545153610",
+                "alt_contact": "+919923029210",
+                "address": "At Post Mohgaon Tal Goregaon, Gondia, Maharashtra 441614"
+            }
         ]
     }
 ]
