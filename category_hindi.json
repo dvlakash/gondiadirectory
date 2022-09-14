@@ -130,5 +130,13 @@
     {
         "name": "कबाड़ी वाला",
         "logo": "fas fa-recycle"
+    },
+    {
+        "name": "इवेंट प्लानर",
+        "logo": "fas fa-drafting-compass"
+    },
+    {
+        "name": "डीजे धूमल साउंड",
+        "logo": "fas fa-volume-up"
     }
  ]
