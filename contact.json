@@ -600,7 +600,7 @@
                 "type": "Wedding, Birthday Party, Ceremony",
                 "contact": "+919545153610",
                 "alt_contact": "+919923029210",
-                "address": "At Post Mohgaon Tal Goregaon, Gondia, Maharashtra 441614"
+                "address": "At Post Mohgaon Tal Goregaon, Gondia, Maharashtra"
             }
         ],
         "DJ Dhumal Sound": [
@@ -616,7 +616,16 @@
                 "type": "",
                 "contact": "+919545153610",
                 "alt_contact": "+919923029210",
-                "address": "At Post Mohgaon Tal Goregaon, Gondia, Maharashtra 441614"
+                "address": "At Post Mohgaon Tal Goregaon, Gondia, Maharashtra"
+            }
+        ],
+        "Driving School": [
+	    {
+                "name": "S B Driving School",
+                "type": "",
+                "contact": "+918055821133",
+                "alt_contact": "",
+                "address": "In Front Of Govt Polytechnic College, Fulchur Peth, Goregoan, Road, Gondia, Maharashtra 441601"
             }
         ]
     }
