@@ -645,6 +645,15 @@
                 "alt_contact": "",
                 "address": "Old Bus Stand Rd, Sindhi Colony, Gondia, Maharashtra 441601"
             }
+        ],
+        "Real Estate Property Dealer": [
+	    {
+                "name": "Gopal Agrawal",
+                "type": "",
+                "contact": "+918208074358",
+                "alt_contact": "",
+                "address": "Mahavir Colony, Kudwa, Gondia, Maharashtra 441601"
+            }
         ]
     }
 ]
