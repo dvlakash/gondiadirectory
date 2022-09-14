@@ -146,5 +146,9 @@
     {
         "name": "Solar Panel Integrator",
         "logo": "fas fa-solar-panel"
+    },
+    {
+        "name": "Inverter Battery Seller Repairing",
+        "logo": "fas fa-car-battery"
     }
  ]
