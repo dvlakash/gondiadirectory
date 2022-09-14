@@ -130,5 +130,13 @@
     {
         "name": "Ragman (Kabaddi)",
         "logo": "fas fa-recycle"
+    },
+    {
+        "name": "Event Planner",
+        "logo": "fas fa-drafting-compass"
+    },
+    {
+        "name": "DJ Dhumal Sound",
+        "logo": "fas fa-volume-up"
     }
  ]
