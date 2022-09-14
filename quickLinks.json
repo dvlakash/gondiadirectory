@@ -18,6 +18,12 @@
       "mode": "_blank"
     },
     {
+      "name": "Police Portal",
+      "logo": "fab fa-product-hunt",
+      "link": "https://gondiapolice.gov.in/",
+      "mode": "_blank"
+    },
+    {
       "name": "Spot Your Train",
       "logo": "fas fa-train",
       "link": "https://enquiry.indianrail.gov.in/mntes",
