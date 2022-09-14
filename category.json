@@ -142,5 +142,9 @@
     {
         "name": "Driving School",
         "logo": "fas fa-car"
+    },
+    {
+        "name": "Solar Panel Integrator",
+        "logo": "fas fa-solar-panel"
     }
  ]
