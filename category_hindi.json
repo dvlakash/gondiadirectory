@@ -138,5 +138,9 @@
     {
         "name": "डीजे धूमल साउंड",
         "logo": "fas fa-volume-up"
+    },
+    {
+        "name": "ड्राइविंग स्कूल",
+        "logo": "fas fa-car"
     }
  ]
