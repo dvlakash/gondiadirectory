@@ -150,6 +150,13 @@
                 "contact": "+919028603640",
                 "alt_contact": "",
                 "address": "Maruti Computer, In Front Of Sahyog Hospital, Avanti Chowk, Gondia"
+            },
+            {
+                "name": "Pache Computer Services",
+                "type": "",
+                "contact": "+919623752979",
+                "alt_contact": "+919226212232",
+                "address": "Panche Electricals & Computer Services, Marartoli, Bus Stand, Gondia - 441601"
             }
         ],
         "Electrician": [
@@ -194,6 +201,13 @@
                 "contact": "+918208180374",
                 "alt_contact": "",
                 "address": "T.B Toli, Gondia"
+            },
+            {
+                "name": "Pache Electricals",
+                "type": "",
+                "contact": "+919623752979",
+                "alt_contact": "+919226212232",
+                "address": "Panche Electricals & Computer Services, Marartoli, Bus Stand, Gondia - 441601"
             }
         ],
         "Music Teacher": [
