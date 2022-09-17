@@ -154,5 +154,9 @@
     {
         "name": "Real Estate Property Dealer",
         "logo": "fas fa-city"
+    },
+    {
+        "name": "Bed Mattress Maker",
+        "logo": "fas fa-bed"
     }
  ]
