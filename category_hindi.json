@@ -166,5 +166,9 @@
     {
         "name": "आरओ वाटर प्यूरीफायर सर्विसेज",
         "logo": "fas fa-hand-holding-water"
+    },
+    {
+        "name": "पीने के पानी के आपूर्तिकर्ता",
+        "logo": "fas fa-tint"
     }
  ]
