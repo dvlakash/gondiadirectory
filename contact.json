@@ -706,6 +706,15 @@
                 "alt_contact": "",
                 "address": "Nuri Gaadi Bhandar, Main Road, Gandhi Pratima, Gondia - 441601"
             }
+        ],
+        "Pest Control": [
+	    {
+                "name": "Shailesh Mahule",
+                "type": "",
+                "contact": "+918888202245",
+                "alt_contact": "",
+                "address": "Home Care Pest Control Services, Nagradham, Gondia, Maharashtra"
+            }
         ]
     }
 ]
