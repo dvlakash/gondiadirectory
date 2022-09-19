@@ -162,5 +162,9 @@
     {
         "name": "कीट नियंत्रण",
         "logo": "fas fa-bug"
+    },
+    {
+        "name": "आरओ वाटर प्यूरीफायर सर्विसेज",
+        "logo": "fas fa-hand-holding-water"
     }
  ]
