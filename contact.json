@@ -724,6 +724,15 @@
                 "alt_contact": "",
                 "address": "Dolphin Solution, Near Aaloo Godam, kudwa Road, Gondia"
             }
+        ],
+        "Drinking Water Suppliers": [
+	    {
+                "name": "Gupta Traders",
+                "type": "",
+                "contact": "+917028712470",
+                "alt_contact": "",
+                "address": "Near Balaji Hospital, Ganesh Nagar, Gondia"
+            }
         ]
     }
 ]
