@@ -390,9 +390,17 @@
                 "address": "Main Market, Gondia"
             }
         ],
-        "TV Technician": [],
+        "TV Technician": [
+	    {
+                "name": "Guddu Bansod",
+                "type": "LED, LCD, TV",
+                "contact": "+919823717487",
+                "alt_contact": "",
+                "address": "Near Kali Mata Mandir, Ramnagar, Gondia"
+            }
+	],
         "House Maker Repair": [
-			{
+	    {
                 "name": "Ambarlal Daudsare",
                 "type": "",
                 "contact": "+918408923944",
