@@ -215,6 +215,13 @@
                 "contact": "+919623752979",
                 "alt_contact": "+919226212232",
                 "address": "Panche Electricals & Computer Services, Marartoli, Bus Stand, Gondia - 441601"
+            },
+            {
+                "name": "Ajman Sheikh",
+                "type": "",
+                "contact": "+97776019074",
+                "alt_contact": "",
+                "address": "Near Makka Masjid Road, Govindpur, Gondia"
             }
         ],
         "Music Teacher": [
@@ -271,12 +278,19 @@
             }
         ],
         "Plumber": [
-			{
+	    {
                 "name": "Kailash Gautam",
                 "type": "",
                 "contact": "+918308535216",
                 "alt_contact": "",
                 "address": "Gondia"
+            },
+            {
+                "name": "Ajman Sheikh",
+                "type": "",
+                "contact": "+97776019074",
+                "alt_contact": "",
+                "address": "Near Makka Masjid Road, Govindpur, Gondia"
             }
 		],
         "Carpenter": [
@@ -296,7 +310,7 @@
             }
 		],
         "Painter": [
-			{
+	    {
                 "name": "Pravin Chavhan",
                 "type": "",
                 "contact": "+919552113530",
