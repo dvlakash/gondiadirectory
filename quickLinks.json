@@ -6,9 +6,15 @@
       "mode": "_blank"
     },
     {
-      "name": "Navabharat ePaper",
+      "name": "Navabharat E-Paper",
       "logo": "far fa-newspaper",
       "link": "ePaperModal",
+      "mode": "_blank"
+    },
+    {
+      "name": "Dainik Bhaskar E-Paper",
+      "logo": "far fa-newspaper",
+      "link": "https://epaper.bhaskarhindi.com/t/29269",
       "mode": "_blank"
     },
     {
