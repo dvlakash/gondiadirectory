@@ -162,5 +162,9 @@
     {
         "name": "Pest Control",
         "logo": "fas fa-bug"
+    },
+    {
+        "name": "RO Water purifier Services",
+        "logo": "fas fa-hand-holding-water"
     }
  ]
