@@ -158,5 +158,9 @@
     {
         "name": "Bed Mattress Maker",
         "logo": "fas fa-bed"
+    },
+    {
+        "name": "Pest Control",
+        "logo": "fas fa-bug"
     }
  ]
