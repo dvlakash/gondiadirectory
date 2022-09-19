@@ -166,5 +166,9 @@
     {
         "name": "RO Water purifier Services",
         "logo": "fas fa-hand-holding-water"
+    },
+    {
+        "name": "Drinking Water Suppliers",
+        "logo": "fas fa-tint"
     }
  ]
