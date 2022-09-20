@@ -754,6 +754,15 @@
                 "alt_contact": "",
                 "address": "Near Balaji Hospital, Ganesh Nagar, Gondia"
             }
+        ],
+        "Sonography": [
+	    {
+                "name": "Rahul Suresh Bagde",
+                "type": "",
+                "contact": "+917507509442",
+                "alt_contact": "+918208412239",
+                "address": "Apex Sonography Center, Bisen Complex, Ingle Chowk, Civil Lines, Gondia "
+            }
         ]
     }
 ]
