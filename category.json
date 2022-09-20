@@ -170,5 +170,9 @@
     {
         "name": "Drinking Water Suppliers",
         "logo": "fas fa-tint"
+    },
+    {
+        "name": "Sonography",
+        "logo": "fas fa-baby"
     }
  ]
