@@ -21,6 +21,13 @@
                 "contact": "+919373294907",
                 "alt_contact": "",
                 "address": "Gondia"
+            },
+            {
+                "name": "Vishal Ambade",
+                "type": "",
+                "contact": "+918830255020",
+                "alt_contact": "",
+                "address": "Shivnath Madhi Chowk, Shrinagar, Gondia"
             }
         ],
         "Wine & Bar Shop": [
@@ -399,8 +406,24 @@
                 "address": "Society Square, Fulchur, Gondia - 441614"
             }
         ],
-        "Refrigerator Technician": [],
-        "Washing Machine Technician": [],
+        "Refrigerator Technician": [
+            {
+                "name": "Vishal Ambade",
+                "type": "",
+                "contact": "+918830255020",
+                "alt_contact": "",
+                "address": "Shivnath Madhi Chowk, Shrinagar, Gondia"
+            }
+	],
+        "Washing Machine Technician": [
+            {
+                "name": "Vishal Ambade",
+                "type": "",
+                "contact": "+918830255020",
+                "alt_contact": "",
+                "address": "Shivnath Madhi Chowk, Shrinagar, Gondia"
+            }
+	],
         "Microwave Technician": [],
         "Worker Labour": [
             {
