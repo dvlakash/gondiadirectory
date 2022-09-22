@@ -178,5 +178,9 @@
     {
         "name": "मेकअप पार्लर और हेयर स्टाइलिंग",
         "logo": "fas fa-air-freshener"
+    },
+    {
+        "name": "स्थानीय विज्ञापन",
+        "logo": "fas fa-ad"
     }
  ]
