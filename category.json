@@ -178,5 +178,9 @@
     {
         "name": "Makeup Parlour & Hairstyling",
         "logo": "fas fa-air-freshener"
+    },
+    {
+        "name": "Local Advertising",
+        "logo": "fas fa-ad"
     }
  ]
