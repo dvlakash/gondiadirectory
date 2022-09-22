@@ -174,5 +174,9 @@
     {
         "name": "Sonography",
         "logo": "fas fa-baby"
+    },
+    {
+        "name": "Makeup & Hairstyling",
+        "logo": "fas fa-spray-can"
     }
  ]
