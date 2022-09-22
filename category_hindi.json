@@ -174,5 +174,9 @@
     {
         "name": "सोनोग्राफी",
         "logo": "fas fa-baby"
+    },
+    {
+        "name": "मेकअप और हेयर स्टाइलिंग",
+        "logo": "fas fa-spray-can"
     }
  ]
