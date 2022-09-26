@@ -500,13 +500,6 @@
             }
 	],
         "House Maker Repair": [
-	    {
-                "name": "Ambarlal Daudsare",
-                "type": "",
-                "contact": "+918408923944",
-                "alt_contact": "",
-                "address": "Mahalgaon, Gondia"
-            },
             {
                 "name": "Ganu Marthe",
                 "type": "",
@@ -521,12 +514,19 @@
                 "alt_contact": "+918830927532",
                 "address": "Gondia"
             },
-			{
+	    {
                 "name": "Sumit Singh",
                 "type": "",
                 "contact": "+919404306322",
                 "alt_contact": "",
                 "address": "Railtoli, Gondia"
+            },
+	    {
+                "name": "Suresh Udapure",
+                "type": "",
+                "contact": "+919049695518",
+                "alt_contact": "",
+                "address": "Udapure Building Construction, At Post Nagra, Gondia 441416"
             }
         ],
         "Wifi Provider": [
