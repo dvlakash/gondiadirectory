@@ -923,6 +923,15 @@
                 "alt_contact": "+917798225580",
                 "address": "Teli Line, Chandni Chowk, gondia - 441601"
             }
+        ],
+        "Automobile Repair & Services": [
+	    {
+                "name": "Nawab Sheikh",
+                "type": "Truck, Heavy Vehicle",
+                "contact": "+919637476700",
+                "alt_contact": "",
+                "address": "Nawaz Motor Repairing Workshop, Collector Office, Bypas Road Kisan Chowk, Gondia"
+            }
         ]
     }
 ]
