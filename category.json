@@ -182,5 +182,9 @@
     {
         "name": "Local Advertising",
         "logo": "fas fa-ad"
+    },
+    {
+        "name": "Automobile Repair & Services",
+        "logo": "fas fa-wrench"
     }
  ]
