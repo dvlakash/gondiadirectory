@@ -502,31 +502,38 @@
         "House Maker Repair": [
             {
                 "name": "Ganu Marthe",
-                "type": "",
+                "type": "Contractor",
                 "contact": "+917875807469",
                 "alt_contact": "",
                 "address": "Gondia"
             },
             {
                 "name": "Tejlal Banote",
-                "type": "",
+                "type": "Contractor",
                 "contact": "+919657892014",
                 "alt_contact": "+918830927532",
                 "address": "Gondia"
             },
 	    {
                 "name": "Sumit Singh",
-                "type": "",
+                "type": "Architecture, Planner & Interior Designer",
                 "contact": "+919404306322",
                 "alt_contact": "",
                 "address": "Railtoli, Gondia"
             },
 	    {
                 "name": "Suresh Udapure",
-                "type": "",
+                "type": "Contractor",
                 "contact": "+919049695518",
                 "alt_contact": "",
                 "address": "Udapure Building Construction, At Post Nagra, Gondia 441416"
+            },
+	    {
+                "name": "Punam P Jamre",
+                "type": "Architecture, Planner & Interior Designer",
+                "contact": "+919822247213",
+                "alt_contact": "+917499862366",
+                "address": "Azad Ward, Sai Nagar, Maratoli, Gondia"
             }
         ],
         "Wifi Provider": [
