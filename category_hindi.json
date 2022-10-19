@@ -186,5 +186,9 @@
     {
         "name": "वाहन मरम्मत और सेवा",
         "logo": "fas fa-wrench"
+    },
+    {
+        "name": "किराये की सेवाएं",
+        "logo": "fas fa-hand-holding-usd"
     }
  ]
