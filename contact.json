@@ -1009,6 +1009,15 @@
                 "alt_contact": "",
                 "address": "Nawaz Motor Repairing Workshop, Collector Office, Bypas Road Kisan Chowk, Gondia"
             }
+        ],
+        "Rental Services": [
+	    {
+                "name": "Pal Gupta",
+                "type": "2BHK House",
+                "contact": "+919145353536",
+                "alt_contact": "",
+                "address": "Near Manohar Colony, Ramnagar, Gondia"
+            }
         ]
     }
 ]
