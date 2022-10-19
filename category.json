@@ -186,5 +186,9 @@
     {
         "name": "Automobile Repair & Services",
         "logo": "fas fa-wrench"
+    },
+    {
+        "name": "Rental Services",
+        "logo": "fas fa-hand-holding-usd"
     }
  ]
