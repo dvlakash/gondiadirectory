@@ -1041,6 +1041,29 @@
                 "alt_contact": "",
                 "address": "Shastri Ward, Maula Ali Chowk, Gondia"
             }
+        ],
+        "LIC Adviser": [
+	    {
+                "name": "Narendra H Dahake",
+                "type": "",
+                "contact": "+919423113385",
+                "alt_contact": "",
+                "address": "At Post, Mundipar, Gondia"
+            },
+	    {
+                "name": "Bhagwat Kewalchand Dashriya",
+                "type": "",
+                "contact": "+919158981304",
+                "alt_contact": "",
+                "address": "At Post, Paol Dawana, Salekasa, Gondia"
+            },
+	    {
+                "name": "Narendra B Sandil",
+                "type": "",
+                "contact": "+919405343671",
+                "alt_contact": "+919421809497",
+                "address": "Deori, Gondia"
+            }
         ]
     }
 ]
