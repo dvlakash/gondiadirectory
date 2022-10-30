@@ -194,5 +194,9 @@
     {
         "name": "Mehndi Artist",
         "logo": "fas fa-hand-sparkles"
+    },
+    {
+        "name": "LIC Agent",
+        "logo": "fas fa-user-secret"
     }
  ]
