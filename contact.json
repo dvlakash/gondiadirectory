@@ -1100,11 +1100,18 @@
                 "address": "At. Goregaon Dist. Gondia"
             },
 	    {
-                "name": "Mayank S Chauhan ",
+                "name": "Mayank S Chauhan",
                 "type": "",
                 "contact": "+917378973731",
                 "alt_contact": "",
                 "address": "Manohar Chowk, Govindpur Road, Gondia"
+            },
+	    {
+                "name": "Shamlal Chaitram Bopche",
+                "type": "",
+                "contact": "+919765082689",
+                "alt_contact": "",
+                "address": "At Post Kalimati, Goregaon, Gondia"
             }
         ]
     }
