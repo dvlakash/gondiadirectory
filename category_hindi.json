@@ -194,5 +194,9 @@
     {
         "name": "मेहंदी वाली",
         "logo": "fas fa-hand-sparkles"
+    },
+    {
+        "name": "एलआईसी सलाहकार",
+        "logo": "fas fa-user-secret"
     }
  ]
