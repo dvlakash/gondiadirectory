@@ -1032,6 +1032,15 @@
                 "alt_contact": "",
                 "address": "Near Manohar Colony, Ramnagar, Gondia"
             }
+        ],
+        "Mehndi Artist": [
+	    {
+                "name": "Samiya Pathan",
+                "type": "",
+                "contact": "+919765214457",
+                "alt_contact": "",
+                "address": "Shastri Ward, Maula Ali Chowk, Gondia"
+            }
         ]
     }
 ]
