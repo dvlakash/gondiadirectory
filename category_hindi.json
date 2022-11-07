@@ -198,5 +198,9 @@
     {
         "name": "एलआईसी सलाहकार",
         "logo": "fas fa-user-secret"
+    },
+    {
+        "name": "वाहन शोरूम",
+        "logo": "fas fa-car-side"
     }
  ]
