@@ -273,11 +273,18 @@
                 "address": "Gautam Nagar, Bajpaiward, Gondia"
             },
             {
-                "name": "Pranay Agrawal ",
+                "name": "Pranay Agrawal",
                 "type": "",
                 "contact": "+919284057346",
                 "alt_contact": "",
                 "address": "22, Rameshwaram colony, Fulchur Naka, Shastri Ward, Gondia"
+            },
+            {
+                "name": "Rajesh D. Patle",
+                "type": "",
+                "contact": "+919420365544",
+                "alt_contact": "+917588789316",
+                "address": "Deori, Dist. Gondia 441902"
             }
         ],
         "Music Teacher": [
@@ -354,10 +361,17 @@
                 "contact": "+917769942173",
                 "alt_contact": "",
                 "address": "Angur Bagicha, Gondia"
+            },
+            {
+                "name": "Rajesh D. Patle",
+                "type": "",
+                "contact": "+919420365544",
+                "alt_contact": "+917588789316",
+                "address": "Deori, Dist. Gondia 441902"
             }
-		],
+	],
         "Carpenter": [
-			{
+	    {
                 "name": "Khomesh Rahangdale",
                 "type": "",
                 "contact": "+919309502104",
@@ -371,7 +385,7 @@
                 "alt_contact": "+919763374169",
                 "address": "Chutiya, Gondia 441614"
             }
-		],
+	],
         "Painter": [
 	    {
                 "name": "Pravin Chavhan",
