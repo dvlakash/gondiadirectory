@@ -141,6 +141,13 @@
                 "contact": "+917182231921",
                 "alt_contact": "",
                 "address": "Girls College Road, Opposite Gadekar Hospital, Near Khoja Maszid, Sindhi Colony, Gondia, Maharashtra 441601"
+            },
+            {
+                "name": "Dr. Omprakash Gupta",
+                "type": "",
+                "contact": "+919823252088",
+                "alt_contact": "",
+                "address": "Vaishnavi Nursing Home, Ramnagar Mainroad, Beside Hindustan Automobile, Gondia"
             }
         ],
         "Computer Repair": [
@@ -1009,6 +1016,13 @@
                 "contact": "+917507509442",
                 "alt_contact": "+918208412239",
                 "address": "Apex Sonography Center, Bisen Complex, Ingle Chowk, Civil Lines, Gondia"
+            },
+	    {
+                "name": "Dr. Sonal Gupta",
+                "type": "",
+                "contact": "+919823254789",
+                "alt_contact": "+917769941901",
+                "address": "Shri Sai Sonography Centre, Beside Lokmanya Tilak Blood Bank, Near Ingle Chowk, Civil Lines, Gondia"
             }
         ],
         "Makeup Parlour & Hairstyling": [
