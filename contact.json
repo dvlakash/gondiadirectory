@@ -1225,6 +1225,15 @@
                 "alt_contact": "+918329890400",
                 "address": "Jai Stambh Square, Gondia"
             }
+        ],
+        "Vehicle Showroom": [
+	    {
+                "name": "Tapan Keshwani",
+                "type": "New & Old Car Showroom",
+                "contact": "+918390062888",
+                "alt_contact": "",
+                "address": "Near Polytechnic College, Fulchur Peth, Gondia"
+            }
         ]
     }
 ]
