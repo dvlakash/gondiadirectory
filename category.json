@@ -198,5 +198,9 @@
     {
         "name": "LIC Adviser",
         "logo": "fas fa-user-secret"
+    },
+    {
+        "name": "Vehicle Showroom",
+        "logo": "fas fa-car-side"
     }
  ]
