@@ -202,5 +202,9 @@
     {
         "name": "Vehicle Showroom",
         "logo": "fas fa-car-side"
+    },
+    {
+        "name": "Railway Coolie",
+        "logo": "fas fa-luggage-cart"
     }
  ]
