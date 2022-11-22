@@ -1241,6 +1241,15 @@
                 "alt_contact": "",
                 "address": "Maruti Suzuki Showroom, Near Polytechnic College, Fulchur Peth, Gondia"
             }
+        ],
+        "Railway Coolie": [
+	    {
+                "name": "Santosh Gajbhiye",
+                "type": "",
+                "contact": "+918788946422",
+                "alt_contact": "",
+                "address": "Railway Station, Gondia"
+            }
         ]
     }
 ]
