@@ -202,5 +202,9 @@
     {
         "name": "वाहन शोरूम",
         "logo": "fas fa-car-side"
+    },
+    {
+        "name": "रेलवे कुली",
+        "logo": "fas fa-luggage-cart"
     }
  ]
