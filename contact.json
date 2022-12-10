@@ -1250,6 +1250,15 @@
                 "alt_contact": "",
                 "address": "Railway Station, Gondia"
             }
+        ],
+        "Spare Parts Seller": [
+	    {
+                "name": "Amit Agency",
+                "type": "AC, Geyser, Mixer Grinder, Refrigerator",
+                "contact": "+919373990349",
+                "alt_contact": "+919423114039",
+                "address": "Amit Agency, Hemu Colony Chowk, Sindhi Colony, Gondia"
+            }
         ]
     }
 ]
