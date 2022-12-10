@@ -206,5 +206,9 @@
     {
         "name": "रेलवे कुली",
         "logo": "fas fa-luggage-cart"
+    },
+    {
+        "name": "स्पेयर पार्ट्स विक्रेता",
+        "logo": "fa-solid fa-gears"
     }
  ]
