@@ -210,5 +210,9 @@
     {
         "name": "Spare Parts Seller",
         "logo": "fas fa-cogs"
+    },
+    {
+        "name": "Pet Shop",
+        "logo": "fas fa-paw"
     }
  ]
