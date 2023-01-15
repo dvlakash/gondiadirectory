@@ -1280,6 +1280,15 @@
                 "alt_contact": "+919423114039",
                 "address": "Amit Agency, Hemu Colony Chowk, Sindhi Colony, Gondia"
             }
+        ],
+        "Pet Shop": [
+	    {
+                "name": "H.K Pet Care Services",
+                "type": "Dogs, Cats, Birds",
+                "contact": "+919545201786",
+                "alt_contact": "",
+                "address": "Near Bahekar Farmhouse, Balaghat Road, Gondia"
+            }
         ]
     }
 ]
