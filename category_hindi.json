@@ -214,5 +214,9 @@
     {
         "name": "पेट शॉप",
         "logo": "fas fa-paw"
+    },
+    {
+        "name": "नेत्र जांच और चश्मा दुकान",
+        "logo": "fas fa-glasses"
     }
  ]
