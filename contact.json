@@ -1289,6 +1289,15 @@
                 "alt_contact": "",
                 "address": "Near Bahekar Farmhouse, Balaghat Road, Gondia"
             }
+        ],
+        "Eye Checkup Optical Shop": [
+	    {
+                "name": "Cleardekho Eyewear",
+                "type": "Free Eye Checkup, Optical Shop",
+                "contact": "+917020786744",
+                "alt_contact": "",
+                "address": "Shop No.1 Pachunde Complex, Railtoly, Gondia"
+            }
         ]
     }
 ]
