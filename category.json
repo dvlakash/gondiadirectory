@@ -214,5 +214,9 @@
     {
         "name": "Pet Shop",
         "logo": "fas fa-paw"
+    },
+    {
+        "name": "Eye Checkup Optical Shop",
+        "logo": "fas fa-glasses"
     }
  ]
