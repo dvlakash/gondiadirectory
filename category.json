@@ -222,5 +222,9 @@
     {
         "name": "Sports Academy Classes",
         "logo": "fas fa-futbol"
+    },
+    {
+        "name": "Kangen Water",
+        "logo": "fas fa-hand-holding-water"
     }
  ]
