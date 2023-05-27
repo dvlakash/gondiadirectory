@@ -222,5 +222,9 @@
     {
         "name": "स्पोर्ट्स अकादमी क्लासेस",
         "logo": "fas fa-futbol"
+    },
+    {
+        "name": "कंगेन वाटर",
+        "logo": "fas fa-hand-holding-water"
     }
  ]
