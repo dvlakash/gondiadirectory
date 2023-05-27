@@ -1326,6 +1326,15 @@
                 "alt_contact": "",
                 "address": "Shop No.1 Pachunde Complex, Railtoly, Gondia"
             }
+        ],
+        "Sports Academy Classes": [
+	    {
+                "name": "Vishal Thakur",
+                "type": "Karate, Skating",
+                "contact": "+917385791931",
+                "alt_contact": "",
+                "address": "District Sports Complex, Marartoli, Gondia"
+            }
         ]
     }
 ]
