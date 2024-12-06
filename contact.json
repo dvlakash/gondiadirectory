@@ -120,7 +120,7 @@
         "address": "1st Floor, Ambule House, Murri, Gondia"
       }
     ],
-    "Hospital": [
+    "Doctor Clinics & Hospitals": [
       {
         "name": "Sahayog Hospital",
         "type": "",
@@ -183,6 +183,13 @@
         "contact": "+919423283487",
         "alt_contact": "",
         "address": "Janak Ward, Gaddatoli Gondia"
+      },
+      {
+        "name": "Sparsh Skin Clinic",
+        "type": "",
+        "contact": "+919325203050",
+        "alt_contact": "",
+        "address": "Ingle Chowk To Kaka Chowk Road,Near Bodi, Civil Line, Gondia, Maharashtra 441601"
       }
     ],
     "Computer Repair": [
@@ -1096,7 +1103,7 @@
         "name": "Gopal Agrawal",
         "type": "",
         "contact": "+918208074358",
-        "alt_contact": "",
+        "alt_contact": "+919921311728",
         "address": "Mahavir Colony, Kudwa, Gondia, Maharashtra 441601"
       }
     ],
