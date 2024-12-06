@@ -176,6 +176,13 @@
         "contact": "+919823252088",
         "alt_contact": "",
         "address": "Vaishnavi Nursing Home, Ramnagar Mainroad, Beside Hindustan Automobile, Gondia"
+      },
+      {
+        "name": "Central Hospital",
+        "type": "",
+        "contact": "+919423283487",
+        "alt_contact": "",
+        "address": "Janak Ward, Gaddatoli Gondia"
       }
     ],
     "Computer Repair": [
@@ -220,6 +227,13 @@
         "contact": "+919766270026",
         "alt_contact": "",
         "address": "Gaytri Mandir, Judwa Naka, Beside Shalimar Hotel, Gondia"
+      },
+      {
+        "name": "Nihal Thakur",
+        "type": "Door To Door Service",
+        "contact": "+919834277959",
+        "alt_contact": "",
+        "address": "Near New RTO Office, Fulchur Naka, Gondia"
       }
     ],
     "Electrician": [
@@ -521,6 +535,13 @@
         "contact": "+919326820036",
         "alt_contact": "",
         "address": "Near Motwani Chember, Gondia"
+      },
+      {
+        "name": "Naitik Tours & Travels",
+        "type": "",
+        "contact": "+919673414755",
+        "alt_contact": "",
+        "address": "Goutam Nagar, Bajpai Ward, Gondia"
       }
     ],
     "Photoshoot": [
