@@ -1,71 +1,71 @@
 [
     {
-       "name": "AC Reparing Installation",
-       "logo": "fas fa-wind"
+        "name": "AC Reparing Installation",
+        "logo": "fas fa-wind"
     },
     {
-       "name": "Home Automation",
-       "logo": "fas fa-laptop-house"
+        "name": "Home Automation",
+        "logo": "fas fa-laptop-house"
     },
     {
-       "name": "Computer Repair",
-       "logo": "fas fa-desktop"
+        "name": "Computer Repair",
+        "logo": "fas fa-desktop"
     },
     {
-       "name": "Electrician",
-       "logo": "fas fa-bolt"
+        "name": "Electrician",
+        "logo": "fas fa-bolt"
     },
     {
-       "name": "Music Teacher",
-       "logo": "fas fa-music"
+        "name": "Music Teacher",
+        "logo": "fas fa-music"
     },
     {
-       "name": "Gym",
-       "logo": "fas fa-dumbbell"
+        "name": "Gym",
+        "logo": "fas fa-dumbbell"
     },
     {
-       "name": "Plumber",
-       "logo": "fas fa-faucet"
+        "name": "Plumber",
+        "logo": "fas fa-faucet"
     },
     {
-       "name": "Painter",
-       "logo": "fas fa-paint-roller"
+        "name": "Painter",
+        "logo": "fas fa-paint-roller"
     },
     {
-       "name": "Tour & Travels",
-       "logo": "fas fa-car-side"
+        "name": "Tour & Travels",
+        "logo": "fas fa-car-side"
     },
     {
-       "name": "Photoshoot",
-       "logo": "fas fa-camera"
+        "name": "Photography",
+        "logo": "fas fa-camera"
     },
     {
-       "name": "Refrigerator Technician",
-       "logo": "fas fa-door-closed"
+        "name": "Refrigerator Technician",
+        "logo": "fas fa-door-closed"
     },
     {
-       "name": "Washing Machine Technician",
-       "logo": "fab fa-unsplash"
+        "name": "Washing Machine Technician",
+        "logo": "fab fa-unsplash"
     },
     {
-       "name": "Microwave Technician",
-       "logo": "fas fa-window-maximize"
+        "name": "Microwave Technician",
+        "logo": "fas fa-window-maximize"
     },
     {
-       "name": "Worker Labour",
-       "logo": "fas fa-people-carry"
+        "name": "Worker Labour",
+        "logo": "fas fa-people-carry"
     },
     {
-       "name": "LED LCD TV Technician",
-       "logo": "fas fa-tv"
+        "name": "LED LCD TV Technician",
+        "logo": "fas fa-tv"
     },
-	{
-       "name": "Wine & Bar Shop",
-       "logo": "fas fa-wine-glass-alt"
+    {
+        "name": "Wine & Bar Shop",
+        "logo": "fas fa-wine-glass-alt"
     },
-	{
-       "name": "Doctor Clinics & Hospitals",
-       "logo": "far fa-hospital"
+    {
+        "name": "Doctor Clinics & Hospitals",
+        "logo": "far fa-hospital"
     },
     {
         "name": "House Maker Repair",
@@ -222,5 +222,17 @@
     {
         "name": "Kangen Water",
         "logo": "fas fa-hand-holding-water"
+    },
+    {
+        "name": "Paint Shop",
+        "logo": "fas fa-fill-drip"
+    },
+    {
+        "name": "Printing Xerox Shop",
+        "logo": "fas fa-print"
+    },
+    {
+        "name": "Agriculture Shop",
+        "logo": "fas fa-wheat-awn"
     }
- ]
+]

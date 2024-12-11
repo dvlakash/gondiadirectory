@@ -49,6 +49,13 @@
         "contact": "+918459422298",
         "alt_contact": "",
         "address": "Gondia"
+      },
+      {
+        "name": "Sohel Sheikh",
+        "type": "",
+        "contact": "+918007539300",
+        "alt_contact": "8830658495",
+        "address": "Cooling Point Refrigeration, In Front Of Aaina Paan Centre, Noori Chowk, Gondia"
       }
     ],
     "Wine & Bar Shop": [
@@ -551,27 +558,34 @@
         "address": "Goutam Nagar, Bajpai Ward, Gondia"
       }
     ],
-    "Photoshoot": [
+    "Photography": [
       {
         "name": "Mayank Studio",
-        "type": "",
+        "type": "Photoshoot",
         "contact": "+919371734674",
         "alt_contact": "",
         "address": "Near Hotel The Grand Sita, Tiroda Road, Gondia City, Gondia - 441614"
       },
       {
         "name": "Vishal Photography",
-        "type": "",
+        "type": "Photoshoot",
         "contact": "+919921457646",
         "alt_contact": "",
         "address": "1st Floor of Turkar Bhavan, In Front of S.P. College, Dasgaon, Gondia Road - 441614"
       },
       {
         "name": "Pankaj Bisen",
-        "type": "",
+        "type": "Photoshoot",
         "contact": "+918459458378",
         "alt_contact": "",
         "address": "Society Square, Fulchur, Gondia - 441614"
+      },
+      {
+        "name": "Shri Ganesh Framing House",
+        "type": "Framing Shop, Photo Lab",
+        "contact": "+918446344464",
+        "alt_contact": "+917447570192",
+        "address": "Shree Talkies Road, Bajrang Dal Karyalay, Gondia"
       }
     ],
     "Refrigerator Technician": [
@@ -1426,6 +1440,40 @@
         "contact": "+919096132000",
         "alt_contact": "",
         "address": "Bawli Chowk, Gondia"
+      }
+    ],
+    "Paint Shop": [
+      {
+        "name": "Joshi Brothers",
+        "type": "",
+        "contact": "+918329978271",
+        "alt_contact": "+918668978297",
+        "address": "Main Shop - Gorelal Chowk, Gondia | Showroom - Above Purshottam Super Market, Ringroad, Gondia"
+      },
+      {
+        "name": "Goyal Paint House",
+        "type": "",
+        "contact": "+919028383821",
+        "alt_contact": "",
+        "address": "Shop No 1, Ghat Road, Gandhi Pratima Chowk, Gondia - 441601 (Behind Jain Kushal Bhawan)"
+      }
+    ],
+    "Printing Xerox Shop": [
+      {
+        "name": "Tambi Online & Printing",
+        "type": "",
+        "contact": "+919503616150",
+        "alt_contact": "",
+        "address": "Shop No 2, Near New RTO Office, Baleshawari Complex, Gondia"
+      }
+    ],
+    "Agriculture Shop": [
+      {
+        "name": "Kirshi Seva Kendra & Hardware",
+        "type": "Fertilizer",
+        "contact": "+919423175281",
+        "alt_contact": "",
+        "address": "Vinayak Fertilizer, Kamtha, Gondia"
       }
     ]
   }

@@ -1,71 +1,71 @@
 [
     {
-       "name": "एसी लगाने एवं मरम्मत करने वाला",
-       "logo": "fas fa-wind"
+        "name": "एसी लगाने एवं मरम्मत करने वाला",
+        "logo": "fas fa-wind"
     },
     {
-       "name": "होम ऑटोमेशन",
-       "logo": "fas fa-laptop-house"
+        "name": "होम ऑटोमेशन",
+        "logo": "fas fa-laptop-house"
     },
     {
-       "name": "कंप्यूटर सुधारने वाला",
-       "logo": "fas fa-desktop"
+        "name": "कंप्यूटर सुधारने वाला",
+        "logo": "fas fa-desktop"
     },
     {
-       "name": "बिजली मिस्त्री",
-       "logo": "fas fa-bolt"
+        "name": "बिजली मिस्त्री",
+        "logo": "fas fa-bolt"
     },
     {
-       "name": "संगीत शिक्षक",
-       "logo": "fas fa-music"
+        "name": "संगीत शिक्षक",
+        "logo": "fas fa-music"
     },
     {
-       "name": "जिम",
-       "logo": "fas fa-dumbbell"
+        "name": "जिम",
+        "logo": "fas fa-dumbbell"
     },
     {
-       "name": "प्लम्बर",
-       "logo": "fas fa-faucet"
+        "name": "प्लम्बर",
+        "logo": "fas fa-faucet"
     },
     {
-       "name": "पेंटर",
-       "logo": "fas fa-paint-roller"
+        "name": "पेंटर",
+        "logo": "fas fa-paint-roller"
     },
     {
-       "name": "टूर एंड ट्रेवल्स",
-       "logo": "fas fa-car-side"
+        "name": "टूर एंड ट्रेवल्स",
+        "logo": "fas fa-car-side"
     },
     {
-       "name": "फोटोशूट",
-       "logo": "fas fa-camera"
+        "name": "फोटोग्राफी",
+        "logo": "fas fa-camera"
     },
     {
-       "name": "फ़्रिज सुधारने वाला",
-       "logo": "fas fa-door-closed"
+        "name": "फ़्रिज सुधारने वाला",
+        "logo": "fas fa-door-closed"
     },
     {
-       "name": "वाशिंग मशीन सुधारने वाला",
-       "logo": "fab fa-unsplash"
+        "name": "वाशिंग मशीन सुधारने वाला",
+        "logo": "fab fa-unsplash"
     },
     {
-       "name": "माइक्रोवेव सुधारने वाला",
-       "logo": "fas fa-window-maximize"
+        "name": "माइक्रोवेव सुधारने वाला",
+        "logo": "fas fa-window-maximize"
     },
     {
-       "name": "मज़दूर",
-       "logo": "fas fa-people-carry"
+        "name": "मज़दूर",
+        "logo": "fas fa-people-carry"
     },
     {
-       "name": "टीवी सुधारने वाला",
-       "logo": "fas fa-tv"
+        "name": "टीवी सुधारने वाला",
+        "logo": "fas fa-tv"
     },
-	{
-       "name": "शराब की दुकान",
-       "logo": "fas fa-wine-glass-alt"
+    {
+        "name": "शराब की दुकान",
+        "logo": "fas fa-wine-glass-alt"
     },
-	{
-       "name": "डॉक्टर के क्लिनिक और अस्पताल",
-       "logo": "far fa-hospital"
+    {
+        "name": "डॉक्टर के क्लिनिक और अस्पताल",
+        "logo": "far fa-hospital"
     },
     {
         "name": "घर बनाने एवं मरम्मत करने वाला",
@@ -222,5 +222,17 @@
     {
         "name": "कंगेन वाटर",
         "logo": "fas fa-hand-holding-water"
+    },
+    {
+        "name": "पेंट की दुकान",
+        "logo": "fas fa-fill-drip"
+    },
+    {
+        "name": "प्रिंटिंग ज़ेरॉक्स शॉप",
+        "logo": "fas fa-print"
+    },
+    {
+        "name": "कृषि दुकान",
+        "logo": "fas fa-wheat-awn"
     }
- ]
+]

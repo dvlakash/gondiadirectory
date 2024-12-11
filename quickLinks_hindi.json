@@ -1,44 +1,50 @@
 [
-    {
-      "name": "नवभारत",
-      "logo": "fas fa-newspaper",
-      "link": "https://www.enavabharat.com/gondia-news-hindi/",
-      "mode": "_blank"
-    },
-    {
-      "name": "नवभारत ई-पेपर",
-      "logo": "far fa-newspaper",
-      "link": "ePaperModal",
-      "mode": "_blank"
-    },
-    {
-      "name": "एम.एस.ई.बी गोंदिया",
-      "logo": "fas fa-bolt",
-      "link": "https://gondia.gov.in/en/public-utility-category/electricity/",
-      "mode": "_blank"
-    },
-    {
-      "name": "पुलिस पोर्टल",
-      "logo": "fab fa-product-hunt",
-      "link": "https://gondiapolice.gov.in/",
-      "mode": "_blank"
-    },
-    {
-      "name": "ट्रेन का पता लगाएं",
-      "logo": "fas fa-train",
-      "link": "https://enquiry.indianrail.gov.in/mntes",
-      "mode": "_blank"
-    },
-    {
-      "name": "बूक माई शो",
-      "logo": "fas fa-bold",
-      "link": "https://in.bookmyshow.com/explore/movies-gondia",
-      "mode": "_blank"
-    },
-    {
-      "name": "पर्यटक स्थल",
-      "logo": "fas fa-place-of-worship",
-      "link": "https://www.tripadvisor.in/Attractions-g2285453-Activities-Gondia_Gondia_District_Maharashtra.html",
-      "mode": "_blank"
-    }
-  ]
+  {
+    "name": "नवभारत",
+    "logo": "fas fa-newspaper",
+    "link": "https://navbharatlive.com/maharashtra/gondia",
+    "mode": "_blank"
+  },
+  {
+    "name": "नवभारत ई-पेपर",
+    "logo": "far fa-newspaper",
+    "link": "https://www.magzter.com/IN/Navabharat-Press-Ltd./Navabharat-Gondia/Newspaper/All-Issues",
+    "mode": "_blank"
+  },
+  {
+    "name": "लोकमत ई-पेपर (मराठी)",
+    "logo": "far fa-newspaper",
+    "link": "https://epaper.lokmat.com/sub-editions/Hello%20Gondia/-1/1",
+    "mode": "_blank"
+  },
+  {
+    "name": "एम.एस.ई.बी गोंदिया",
+    "logo": "fas fa-bolt",
+    "link": "https://gondia.gov.in/en/public-utility-category/electricity/",
+    "mode": "_blank"
+  },
+  {
+    "name": "पुलिस पोर्टल",
+    "logo": "fab fa-product-hunt",
+    "link": "https://gondiapolice.gov.in/",
+    "mode": "_blank"
+  },
+  {
+    "name": "ट्रेन का पता लगाएं",
+    "logo": "fas fa-train",
+    "link": "https://enquiry.indianrail.gov.in/mntes",
+    "mode": "_blank"
+  },
+  {
+    "name": "बूक माई शो",
+    "logo": "fas fa-bold",
+    "link": "https://in.bookmyshow.com/explore/movies-gondia",
+    "mode": "_blank"
+  },
+  {
+    "name": "पर्यटक स्थल",
+    "logo": "fas fa-place-of-worship",
+    "link": "https://www.tripadvisor.in/Attractions-g2285453-Activities-Gondia_Gondia_District_Maharashtra.html",
+    "mode": "_blank"
+  }
+]
