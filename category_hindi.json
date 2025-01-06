@@ -234,5 +234,9 @@
     {
         "name": "कृषि दुकान",
         "logo": "fas fa-wheat-awn"
+    },
+    {
+        "name": "ऑटोमोबाइल एक्सेसरीज़",
+        "logo": "fas fa-car-rear"
     }
 ]

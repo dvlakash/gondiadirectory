@@ -687,6 +687,13 @@
         "contact": "+918459422298",
         "alt_contact": "",
         "address": "Gondia"
+      },
+      {
+        "name": "Raja Bansod",
+        "type": "LED, LCD, TV, DTH",
+        "contact": "+919881033107",
+        "alt_contact": "",
+        "address": "Bhim Nagar Gondia"
       }
     ],
     "House Maker Repair": [
@@ -874,6 +881,13 @@
         "contact": "+919284918926",
         "alt_contact": "",
         "address": "Macca Masjid, Govindpur, Mama Chowk, Gondia"
+      },
+      {
+        "name": "Mukesh Dahikar",
+        "type": "Bricks, River Sand, Concrete Gravel, Cement",
+        "contact": "+919373327220",
+        "alt_contact": "",
+        "address": "Gondia"
       }
     ],
     "Waterproofing": [
@@ -1495,6 +1509,22 @@
         "contact": "+919423175281",
         "alt_contact": "",
         "address": "Vinayak Fertilizer, Kamtha, Gondia"
+      }
+    ],
+    "Automobile Accessories": [
+      {
+        "name": "Rashid Qureshi",
+        "type": "Car Accessories",
+        "contact": "+918793226637",
+        "alt_contact": "",
+        "address": "In Front Of Bus Stop, Near Shalimar Hotel, Ring Road, Gondia"
+      },
+      {
+        "name": "Rahil Khan",
+        "type": "Bike Accessories",
+        "contact": "+919325805631",
+        "alt_contact": "",
+        "address": "In Front Of C.J. Company, Pal Chowk, Gondia - 441614"
       }
     ]
   }

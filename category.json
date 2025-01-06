@@ -234,5 +234,9 @@
     {
         "name": "Agriculture Shop",
         "logo": "fas fa-wheat-awn"
+    },
+    {
+        "name": "Automobile Accessories",
+        "logo": "fas fa-car-rear"
     }
 ]
